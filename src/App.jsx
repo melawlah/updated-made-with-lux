@@ -2,6 +2,7 @@ import React from "react"
 import Nav from "./components/Nav"
 import Hero from "./components/Hero"
 import AboutUs from "./components/AboutUs"
+import ProjectsSection from "./components/Projects"
 
 function App() {
  
@@ -13,8 +14,8 @@ function App() {
         <main>
           <Hero />
           <AboutUs /> 
-          {/* <ProjectsSection />
-          <Testimonials />
+          <ProjectsSection />
+          {/* <Testimonials />
           <HowItWorks />
           <Footer /> */}
         </main>
