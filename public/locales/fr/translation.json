@@ -1,7 +1,7 @@
 {
     "hello": "Bonjour!",
     "bonjour": "Hello!",
-    "welcome": "Bienvenue chez Made with Lux, où nous sommes spécialisés dans la création de sites web étonnants qui développent votre entreprise et établissent une forte présence en ligne.",
+    "welcome": "Bienvenue sur Made With Lux, où nous créons des sites web attrayants et faciles à utiliser, permettant à vos clients de vous trouver et de se connecter avec vous en toute simplicité.",
     "viewPortfolio": "Voir Nos Réalisations",
     "home": "Accueil",
     "aboutUs": "À propos de nous",
@@ -47,19 +47,19 @@
     "yourMessagePlaceholder": "Que voulez-vous dire ?",
     "letUsDiscuss": "Discutons de la manière dont nous pouvons faire croître votre entreprise",
     "happyToTalk": "Je suis toujours heureux de discuter avec les propriétaires d'entreprises, même si ce n'est pas à propos de sites web.",
-    "aboutDescription": "Nous créons des sites web magnifiquement conçus et performants, adaptés à votre entreprise, conçus pour avoir un impact, favoriser la conversion et laisser une première impression durable.",
+    "aboutDescription": "Nous sommes passionnés par l'idée d'aider votre entreprise à se développer et à évoluer en ligne. Voici quelques raisons pour lesquelles vous devriez nous choisir:",
     "features": {
       "customSolutions": {
         "title": "Solutions personnalisées",
-        "desc": "Des conceptions et des fonctionnalités sur mesure qui améliorent vos flux de travail et augmentent vos revenus."
+        "desc": "Nous créons des sites web adaptés pour répondre aux besoins et aux opérations de votre entreprise."
       },
       "userCentric": {
-        "title": "Conception centrée sur l'utilisateur",
-        "desc": "Conçu avec une navigation intuitive pour inciter les utilisateurs à explorer votre marque ou à effectuer un achat."
+        "title": "Designs axés sur le client",
+        "desc": "Conçu pour faciliter l'exploration de vos produits, services ou pour entrer en contact."
       },
       "professionalPresence": {
-        "title": "Présence professionnelle",
-        "desc": "Un look soigné et premium qui renforce la confiance et la crédibilité de votre marque."
+        "title": "Aspect professionnel",
+        "desc": "Un look épuré et soigné qui inspire confiance et rend votre marque plus fiable aux yeux des clients."
       }
     },
     "projects": {

@@ -1,7 +1,7 @@
 {
     "hello": "Hello!",
     "bonjour": "Bonjour!",
-    "welcome": "Welcome to Made with Lux where we specialize in creating stunning websites that scale your business and establish a strong online presence.",
+    "welcome": "Welcome to Made With Lux, where we build eye-catching and easy-to-use websites that make it seamless for your customers to find and connect with you.",
     "viewPortfolio": "View Our Works",
     "home": "Home",
     "aboutUs": "About Us",
@@ -47,19 +47,19 @@
     "yourMessagePlaceholder": "What would you like to say?",
     "letUsDiscuss": "Let's Discuss How We Can Grow Your Business",
     "happyToTalk": "I'm always happy to talk to business owners, even if it's not about websites.",
-    "aboutDescription": "We create beautifully designed, high-performing websites tailored to your business, built for impact, conversion, and long-lasting first impressions.",
+    "aboutDescription": "We’re passionate about helping your business grow and scale online. Here are some of the reasons you should choose us:",
     "features": {
       "customSolutions": {
-        "title": "Custom Solutions",
-        "desc": "Tailored designs and features that improve your workflows and increase your revenue."
+        "title": "Personalized Services",
+        "desc": "We create websites that are tailored to meet your business needs and operations."
       },
       "userCentric": {
-        "title": "User-Centric Design",
-        "desc": "Built with intuitive navigation to guide users to take action—explore your brand or make a purchase."
+        "title": "Customer-focused Designs",
+        "desc": "Designed to make it easy for customers to explore your products, services, or get in touch."
       },
       "professionalPresence": {
-        "title": "Professional Presence",
-        "desc": "A polished, premium look that elevates brand trust and credibility in the eyes of your audience."
+        "title": "Professional Look",
+        "desc": "A clean, polished look that builds trust and makes your brand feel more reliable to customers."
       }
     },
     "projects": {

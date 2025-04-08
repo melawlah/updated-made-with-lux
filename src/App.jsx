@@ -1,5 +1,7 @@
 import React from "react"
 import Nav from "./components/Nav"
+import Hero from "./components/Hero"
+import AboutUs from "./components/AboutUs"
 
 function App() {
  
@@ -8,14 +10,14 @@ function App() {
     <>
       <div className="min-h-screen">
         <Nav />
-        {/* <main>
-          <HeroSection />
+        <main>
+          <Hero />
           <AboutUs /> 
-          <ProjectsSection />
+          {/* <ProjectsSection />
           <Testimonials />
           <HowItWorks />
-          <Footer />
-        </main> */}
+          <Footer /> */}
+        </main>
        </div>
     </>
   )
