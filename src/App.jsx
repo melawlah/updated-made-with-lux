@@ -1,14 +1,22 @@
-import { useState } from 'react'
-import './App.css'
+import React from "react"
+import Nav from "./components/Nav"
 
 function App() {
  
 
   return (
     <>
-      <h1 class="text-3xl font-bold underline">
-        Hello world!
-      </h1>
+      <div className="min-h-screen">
+        <Nav />
+        {/* <main>
+          <HeroSection />
+          <AboutUs /> 
+          <ProjectsSection />
+          <Testimonials />
+          <HowItWorks />
+          <Footer />
+        </main> */}
+       </div>
     </>
   )
 }

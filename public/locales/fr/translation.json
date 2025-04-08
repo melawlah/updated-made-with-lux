@@ -1,0 +1,140 @@
+{
+    "hello": "Bonjour!",
+    "bonjour": "Hello!",
+    "welcome": "Bienvenue chez Made with Lux, où nous sommes spécialisés dans la création de sites web étonnants qui développent votre entreprise et établissent une forte présence en ligne.",
+    "viewPortfolio": "Voir Nos Réalisations",
+    "home": "Accueil",
+    "aboutUs": "À propos de nous",
+    "ourWorks": "Nos Travaux",
+    "testimonials": "Témoignages",
+    "contactUs": "Contactez-nous",
+    "ourProcess": "Notre Processus",
+    "showMore": "Montrer Plus",
+    "caseStudy": "Étude de Cas",
+    "contactUsTitle": "Contactez-nous",
+    "thankYouMessage": "Merci de nous avoir contactés !",
+    "thankYouDescription": "Nous avons bien reçu votre message et reviendrons vers vous sous peu.",
+    "nameLabel": "Nom",
+    "emailLabel": "E-mail",
+    "messageLabel": "Message",
+    "submitButton": "Envoyer",
+    "aboutUsText1": "Chez MadeWithLux, nous croyons que le design va au-delà de simplement rendre les choses jolies. Il s'agit de créer des sites web qui ne sont pas seulement magnifiques, mais qui fonctionnent aussi efficacement pour aider votre entreprise à se démarquer, à se connecter avec vos clients et à croître au fil du temps. Nous nous concentrons sur la création d'expériences numériques qui génèrent des résultats et font une réelle différence pour votre marque.",
+    "aboutUsText2": "Nous avons pour objectif de créer des sites web qui représentent véritablement l'identité unique de votre marque. Nous concevons des expériences numériques qui établissent une connexion personnelle avec votre public, les engagent efficacement et soutiennent vos objectifs commerciaux. Que ce soit pour augmenter les ventes, accroître la notoriété de la marque ou renforcer les relations avec vos clients, nos sites web sont conçus pour vous aider à concrétiser la vision de votre entreprise.",
+    "aboutUsText3": "Lorsque vous travaillez avec nous, vous obtenez bien plus qu'un simple site web. Vous obtenez une équipe dédiée à faire briller votre marque et à prospérer en ligne.",
+    "Project One": "Projet Un",
+    "Project Two": "Projet Deux",
+    "Project Three": "Projet Trois",
+    "A stunning project that showcases creativity.": "Un projet impressionnant qui met en valeur la créativité.",
+    "A sleek and modern web design project.": "Un projet de conception web élégant et moderne.",
+    "A project that blends aesthetics and functionality.": "Un projet qui allie esthétique et fonctionnalité.",
+    "Project One Case Study": "Le projet Un a été conçu pour améliorer l'expérience utilisateur en simplifiant la navigation et en améliorant l'attrait visuel. Cela a entraîné une augmentation de 30% de l'engagement.",
+    "Project Two Case Study": "Le projet Deux visait à créer une plateforme de commerce électronique dynamique. En mettant l'accent sur des transactions fluides, le projet a augmenté les ventes de 20%.",
+    "Project Three Case Study": "Le projet Trois a combiné le branding et l'UI/UX pour créer une expérience numérique mémorable. Il a amélioré la satisfaction client de 25%.",
+    "Close": "Fermer",
+    "whatOthersSay": "Ce que les autres disent",
+    "testimonial1": "Ce produit est incroyable! Il a complètement changé la façon dont nous gérons nos flux de travail.",
+    "testimonial2": "Excellente expérience avec l'équipe. Professionnelle, ponctuelle et au-delà des attentes.",
+    "testimonial3": "Le design et la fonctionnalité étaient exceptionnels. Je recommande fortement leur service!",
+    "of": "de",
+    "getInTouch": "Prenez contact",
+    "yourName": "Votre nom",
+    "yourEmail": "Votre e-mail",
+    "yourMessage": "Votre message",
+    "sending": "Envoi...",
+    "sendMessage": "Envoyer le message",
+    "yourNamePlaceholder": "Quel est votre nom ?",
+    "yourEmailPlaceholder": "Quel est votre e-mail ?",
+    "yourMessagePlaceholder": "Que voulez-vous dire ?",
+    "letUsDiscuss": "Discutons de la manière dont nous pouvons faire croître votre entreprise",
+    "happyToTalk": "Je suis toujours heureux de discuter avec les propriétaires d'entreprises, même si ce n'est pas à propos de sites web.",
+    "aboutDescription": "Nous créons des sites web magnifiquement conçus et performants, adaptés à votre entreprise, conçus pour avoir un impact, favoriser la conversion et laisser une première impression durable.",
+    "features": {
+      "customSolutions": {
+        "title": "Solutions personnalisées",
+        "desc": "Des conceptions et des fonctionnalités sur mesure qui améliorent vos flux de travail et augmentent vos revenus."
+      },
+      "userCentric": {
+        "title": "Conception centrée sur l'utilisateur",
+        "desc": "Conçu avec une navigation intuitive pour inciter les utilisateurs à explorer votre marque ou à effectuer un achat."
+      },
+      "professionalPresence": {
+        "title": "Présence professionnelle",
+        "desc": "Un look soigné et premium qui renforce la confiance et la crédibilité de votre marque."
+      }
+    },
+    "projects": {
+      "title": "Nos Derniers Projets",
+      "subtitle": "Une sélection soignée de notre travail qui reflète notre passion pour le design et les résultats.",
+      "prev": "Précédent",
+      "next": "Suivant",
+      "ecommerce": {
+        "title": "Site Web de E-commerce",
+        "description": "Une plateforme de e-commerce moderne avec une expérience utilisateur fluide.",
+        "challenges": "Gestion des stocks de produits et intégration des passerelles de paiement.",
+        "solutions": "Optimisation du backend pour des mises à jour d'inventaire fluides et mise en œuvre de systèmes de paiement sécurisés.",
+        "results": "Augmentation des ventes de 40 % dans les 3 mois suivant le lancement."
+      },
+      "branding": {
+        "title": "Branding pour un Café de Luxe",
+        "description": "Un projet de branding pour un café haut de gamme avec une identité visuelle unique.",
+        "challenges": "Créer une identité de marque qui résonne avec une clientèle haut de gamme.",
+        "solutions": "Développement d'un logo sophistiqué et de directives de marque cohérentes avec des finitions premium.",
+        "results": "Reconnaissance de la marque renforcée et fidélité accrue des clients, ce qui a entraîné une augmentation de 25 % du trafic piétonnier."
+      },
+      "corporate": {
+        "title": "Refonte du Site Web d'une Entreprise",
+        "description": "Refonte d'un site web d'entreprise pour améliorer le flux utilisateur et l'esthétique.",
+        "challenges": "Assurer une expérience utilisateur intuitive pour un public diversifié.",
+        "solutions": "Création d'un design simplifié et accessible avec une navigation intuitive.",
+        "results": "Réduction de 50 % du taux de rebond et amélioration de l'engagement des clients."
+      },
+      "luxuryapp": {
+        "title": "Design d'Application de Luxe",
+        "description": "Un design d'application mobile élégant pour une marque de luxe, axé sur la simplicité.",
+        "challenges": "Concevoir une expérience fluide pour des utilisateurs haut de gamme.",
+        "solutions": "Création d'un design minimaliste avec des animations fluides et des interactions intuitives.",
+        "results": "Lancement réussi de l'application avec plus de 50 000 téléchargements au cours du premier mois."
+      }
+    },
+    "John Doe": "John Doe",
+    "Jane Smith": "Jane Smith",
+    "Emily Johnson": "Emily Johnson",
+    "CEO": "PDG",
+    "CTO": "CTO",
+    "Product Manager": "Chef de produit",
+    "TechCorp": "TechCorp",
+    "InnovateX": "InnovateX",
+    "FutureHub": "FutureHub",
+    "footer": {
+      "title": {
+        "part1": "Prêt à faire évoluer",
+        "part2": "votre",
+        "part3": "présence numérique avec",
+        "brand": "Made with Lux"
+      },
+      "subtitle": "Contactez-nous dès aujourd'hui et explorons comment concrétiser vos idées.",
+      "cta": "Prenons contact",
+      "copyright": "Made with Lux. Tous droits réservés."
+    },
+    "howItWorksTagline": "Notre Processus",
+    "howItWorksTitle": "Comment Ça Marche",
+    "howItWorksDesc": "De la consultation au lancement, voici comment nous donnons vie à votre site.",
+    "step1Title": "Session stratégique gratuite",
+    "step1Desc": "Nous commençons par un appel pour comprendre vos objectifs.",
+    "step2Title": "Document de stratégie",
+    "step2Desc": "Nous élaborons une stratégie sur mesure adaptée à votre entreprise.",
+    "step3Title": "Conception du prototype",
+    "step3Desc": "Nous créons un prototype moderne en accord avec votre vision.",
+    "step4Title": "Validation & retours",
+    "step4Desc": "Vous examinez le design et nous partagez vos retours.",
+    "step5Title": "Développement & tests",
+    "step5Desc": "Nous construisons et testons votre site de manière rigoureuse.",
+    "step6Title": "Lancement",
+    "step6Desc": "Après validation, nous lançons officiellement votre site.",
+    "challenges": "Défis",
+    "solutions": "Solutions",
+    "results": "Résultats",
+    "viewLiveSite": "Voir le site"
+      
+      
+  }
