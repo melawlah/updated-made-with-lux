@@ -31,8 +31,8 @@
     "Project Two Case Study": "Project Two aimed at creating a dynamic e-commerce platform. With a focus on seamless transactions, the project increased sales by 20%.",
     "Project Three Case Study": "Project Three combined branding and UI/UX to create a memorable digital experience. It improved customer satisfaction by 25%.",
     "Close": "Close",
-    "whatOthersSay": "What others say",
-    "testimonial1": "This product is amazing! It completely changed how we manage our workflows.",
+    "whatOthersSay": "What our clients say",
+    "testimonial1": "Our website looks beautiful and makes ordering easier for our customers.",
     "testimonial2": "Great experience with the team. Professional, on time, and exceeded expectations.",
     "testimonial3": "The design and functionality were outstanding. Highly recommend their service!",
     "of": "of",
@@ -64,6 +64,7 @@
     },
     "projects": {
       "title": "Our Latest Projects",
+      "contactUs": "",
       "subtitle": "A curated selection of our work that shows our love for design and results.",
       "prev": "Previous",
       "next": "Next",
@@ -96,20 +97,20 @@
         "results": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       }
     },
-    "John Doe": "John Doe",
+    "John Doe": "Funmilola Ariyo",
     "Jane Smith": "Jane Smith",
     "Emily Johnson": "Emily Johnson",
     "CEO": "CEO",
     "CTO": "CTO",
     "Product Manager": "Product Manager",
-    "TechCorp": "TechCorp",
+    "TechCorp": "Lawlah Sweets",
     "InnovateX": "InnovateX",
     "FutureHub": "FutureHub",
     "footer": {
       "title": {
-        "part1": "Ready to elevate",
+        "part1": "Ready to transform",
         "part2": "your",
-        "part3": "digital presence with",
+        "part3": "online presence with",
         "brand": "Made with Lux"
       },
       "subtitle": "Reach out today and let’s explore how we can bring your ideas to life.",
