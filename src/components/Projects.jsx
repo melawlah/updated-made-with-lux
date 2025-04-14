@@ -209,7 +209,7 @@ const projects = [
     description: "A warm, inviting website that highlights their work and lets customers place custom cake orders with ease.",
     images: [
       // "/assets/lawlahsweets-mockup.png",
-      "public/assets/Gray and Brown Minimalist Phone Mockup Instagram Post (1).png",
+      "public/assets/Gray and Brown Minimalist Phone Mockup Instagram Post.png",
       // "/assets/project4-mockup1.jpg",
       // "/assets/project4-mockup2.jpg"
     ],
