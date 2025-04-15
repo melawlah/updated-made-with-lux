@@ -1,10 +1,10 @@
 {
     "hello": "Hello!",
     "bonjour": "Bonjour!",
-    "welcome": "Welcome to Made With Lux, where we build eye-catching and easy-to-use websites that make it seamless for your customers to find and connect with you.",
+    "welcome": "We’re a web design & development agency based in Canada, creating beautiful, high-performing websites for brands around the world.",
     "viewPortfolio": "View Our Works",
     "home": "Home",
-    "aboutUs": "About Us",
+    "aboutUs": "Our Services",
     "ourWorks": "Our Works",
     "testimonials": "Testimonials",
     "ourProcess": "Our Process",
@@ -33,8 +33,8 @@
     "Close": "Close",
     "whatOthersSay": "What our clients say",
     "testimonial1": "Our website looks beautiful and makes ordering easier for our customers.",
-    "testimonial2": "Great experience with the team. Professional, on time, and exceeded expectations.",
-    "testimonial3": "The design and functionality were outstanding. Highly recommend their service!",
+    "testimonial2": "Great experience working with the team. They were professional and nailed the vision for my portfolio.",
+    "testimonial3": "The strategy session was outstanding. Highly recommend their service.",
     "of": "of",
     "getInTouch": "Get in touch",
     "yourName": "Your Name",
@@ -65,7 +65,7 @@
     "projects": {
       "title": "Our Latest Projects",
       "contactUs": "",
-      "subtitle": "A curated selection of our work that shows our love for design and results.",
+      "subtitle": "A curated selection of our works",
       "prev": "Previous",
       "next": "Next",
       "ecommerce": {
@@ -97,15 +97,15 @@
         "results": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       }
     },
-    "John Doe": "Funmilola Ariyo",
-    "Jane Smith": "Jane Smith",
-    "Emily Johnson": "Emily Johnson",
+    "John Doe": "Lola A.",
+    "Jane Smith": "Ruth A.",
+    "Emily Johnson": "Funmike O.",
     "CEO": "CEO",
     "CTO": "CTO",
     "Product Manager": "Product Manager",
     "TechCorp": "Lawlah Sweets",
-    "InnovateX": "InnovateX",
-    "FutureHub": "FutureHub",
+    "InnovateX": "Software Developer",
+    "FutureHub": "Funmike London",
     "footer": {
       "title": {
         "part1": "Ready to transform",
@@ -114,7 +114,7 @@
         "brand": "Made with Lux"
       },
       "subtitle": "Reach out today and let’s explore how we can bring your ideas to life.",
-      "cta": "Let’s get in touch",
+      "cta": "Get in touch",
       "copyright": "Made with Lux. All rights reserved."
     },
     "howItWorksTagline": "Our Process",
@@ -135,5 +135,121 @@
     "challenges": "Challenges",
     "solutions": "Solutions",
     "results": "Results",
-    "viewLiveSite": "View Live Site"
+    "viewLiveSite": "View Live Site",
+    "servicesSection": {
+      "heading": "What We Do",
+      "ctaTitle": "Ready to work together?",
+      "ctaSubtitle": "Let’s bring your vision to life with strategic design and seamless execution.",
+      "ctaButton": "Get in Touch",
+      "list": [
+        {
+          "title": "Corporate Websites",
+          "description": "Professional, responsive websites to elevate your brand and build trust."
+        },
+        {
+          "title": "E-Commerce Websites",
+          "description": "Custom-built online stores designed for sales, growth, and conversion."
+        },
+        {
+          "title": "Custom App Development",
+          "description": "Tailored web applications with smooth functionality and intuitive UX."
+        },
+        {
+          "title": "Website Redesign",
+          "description": "Refresh your existing website with modern visuals and improved flow."
+        },
+        {
+          "title": "Maintenance & Support",
+          "description": "Ongoing updates, fixes, and care to keep your site secure and fresh."
+        },
+        {
+          "title": "Strategy & Launch",
+          "description": "Full project guidance from planning to a seamless site launch."
+        }
+      ]
+    },
+    "portfolio": [
+      {
+        "id": 1,
+        "title": "Website Redesign for an Event Planning & Rental Company",
+        "link": "https://peru-monkey-684859.hostingersite.com/",
+        "description": "Made it easy for customers to explore services and book rentals online.",
+        "images": ["/assets/flortig-mock-up.png"],
+        "caseStudyDesc": "Through strategic design and thoughtful development, we were able to address key challenges Events by Lorlar faced in customer engagement and service presentation. By implementing intuitive user experiences, clear service showcases, and valuable content, we helped drive stronger client interactions.",
+        "gallery": [
+          {
+            "url": "/assets/flortig-shop-ss.png",
+            "challenges": "Customers lacked an easy, intuitive way to browse and rent items online, resulting in a cumbersome booking process.",
+            "solutions": "We developed a streamlined, user-friendly rental store allowing customers to effortlessly browse and book items with just a few clicks.",
+            "results": "The new system has made it easier for customers to easily rent items online, reducing back-and-forth."
+          },
+          {
+            "url": "/assets/event-planning-fortig.png",
+            "challenges": "The website did not effectively communicate the full range of event planning services, leaving potential clients uncertain about the value offered.",
+            "solutions": "We created a dedicated, visually engaging section to highlight event planning services and showcase past work in a professional manner.",
+            "results": "The new service presentation has improved client understanding of the business's offerings, helping attract and engage more prospective clients."
+          },
+          {
+            "url": "/assets/blogpage-flortig 4.png",
+            "challenges": "The site lacked a central platform for sharing valuable content like event planning tips, trends, and inspiration, limiting opportunities to engage with potential clients.",
+            "solutions": "We added a dynamic blog section where the team can regularly share insights, trends, and event ideas, positioning the brand as an authority in the industry.",
+            "results": "The blog will foster increased trust with visitors, showcasing expertise and making it easier for potential clients to connect with and choose the services."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Custom Website for a Bakery Business",
+        "link": "/projects/luxury-app",
+        "description": "A warm, inviting website that highlights their work and lets customers place custom cake orders with ease.",
+        "images": ["/assets/lawlah-sweets-mockup.png"],
+        "caseStudyDesc": "We focused on streamlining the customer journey — from visual inspiration to custom orders. The result is a beautiful, functional site that not only showcases their products but also simplifies the ordering process, helping the business run more efficiently while delivering a premium experience.",
+        "gallery": [
+          {
+            "url": "/assets/lawlahsweets-showcase-ss.png",
+            "challenges": "Customers couldn’t easily explore the full range of cakes and pastries, making it difficult to decide or place orders.",
+            "solutions": "We designed a visually rich menu that elegantly showcases all available baked goods, organized for easy browsing.",
+            "results": "The enhanced product display enables customers to browse and place orders effortlessly, creating a smoother, more enjoyable user experience."
+          },
+          {
+            "url": "/assets/custom-order-form.png",
+            "challenges": "The ordering process was manual and inefficient, requiring back-and-forth communication to capture order details accurately.",
+            "solutions": "We developed a comprehensive, easy-to-use custom order form with fields for size, flavor, design preferences, and special requests, all handled online.",
+            "results": "The business now receives complete, accurate orders while saving time on admin, reducing errors, and improving customer satisfaction."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "AI Prompt Application",
+        "images": ["/assets/ipad-prototype.png"],
+        "link": "https://ai-prompts-app-one.vercel.app/",
+        "description": "An open-source AI prompting tool for the modern world to discover, create, and share creative prompts.",
+        "caseStudyDesc": "This project is all about empowering creators in the AI space. By building a modern, open-source tool focused on accessibility and design, we helped turn an idea into a collaborative, community-driven platform for the future of AI creativity.",
+        "gallery": [
+          {
+            "url": "/assets/promptopia-project-img.png",
+            "challenges": "There was no visually engaging, user-friendly platform for discovering and sharing AI prompts — especially one that caters to a modern, creative audience.",
+            "solutions": "We designed and developed an open-source web app where users can explore, create, and share AI prompts effortlessly. The interface emphasizes simplicity, community, and creativity, with built-in tools for managing and showcasing prompts.",
+            "results": "Users now have a centralized, intuitive space to organize, reuse, and discover AI prompts — saving time and sparking more consistent creativity."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Portfolio Website for a Software Developer",
+        "description": "A professional, easy-to-navigate website that highlights their work, experience, and writing.",
+        "images": [ "/assets/r-ariyo-portfolio-mockup.png"],
+        "link": "https://ruth-portfolio-iota.vercel.app/",
+        "caseStudyDesc": "This project focused on bridging the gap between technical depth and visual storytelling. By reimagining how portfolio projects are presented, we created a more inclusive, professional, and impactful experience that better communicates the developer's skills and value.",
+        "gallery": [
+          {
+            "url": "/assets/r-portfolio-website-update.png",
+            "challenges": "While each project had a detailed README on GitHub, the portfolio lacked a visual presentation, making it less accessible to non-technical visitors and potential collaborators.",
+            "solutions": "We designed and developed a dedicated portfolio section that transforms GitHub projects into engaging showcases — complete with visuals, concise summaries, and key tech stacks — tailored for both technical and non-technical audiences.",
+            "results": "The portfolio now provides a clear, visually rich overview of the developer’s work, allowing visitors to quickly grasp project scope, impact, and relevance at a glance."
+          }
+        ]
+      }
+    ]
   }

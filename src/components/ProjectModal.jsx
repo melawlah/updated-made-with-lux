@@ -105,6 +105,7 @@ const ProjectModal = ({ project, closeModal }) => {
         {/* Title & CTA */}
         <div className="text-center mb-10">
           <h3 className="text-3xl font-semibold text-black mb-4">{t(project.title)}</h3>
+          <p className="text-gray-700 text-md pb-4">{project.caseStudyDesc}</p>
           <a
             href={project.link}
             target="_blank"

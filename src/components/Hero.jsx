@@ -24,7 +24,7 @@ function Hero() {
         transition={{ duration: 0.5, delay: index * 0.07 }}
         className="inline-block"
       >
-        <span className="text-[clamp(3rem,10vw,12rem)] font-extrabold text-black drop-shadow-md tracking-wide">
+        <span className="text-[clamp(3rem,10vw,12rem)] font-extrabold text-white drop-shadow-md tracking-wide">
           {letter}
         </span>
       </motion.span>
@@ -32,7 +32,7 @@ function Hero() {
 
   return (
     <section
-      className="relative min-h-screen flex flex-col items-center justify-center px-6 sm:px-10 md:px-16 lg:px-24 text-center bg-gradient-to-br from-[#f9fafb] via-white to-[#f3f4f6]"
+      className="relative min-h-screen flex flex-col items-center justify-center px-6 sm:px-10 md:px-16 lg:px-24 text-center bg-black"
       id="home"
     >
       {/* Optional background overlay or effect */}
@@ -43,7 +43,7 @@ function Hero() {
           {splitLetters(greeting)}
         </h1>
 
-        <p className="text-gray-700 text-sm sm:text-base md:text-lg lg:text-xl max-w-2xl font-light tracking-wide">
+        <p className="text-white text-sm sm:text-base md:text-lg lg:text-xl max-w-2xl font-light tracking-wide">
           {t('welcome')}
         </p>
 
@@ -53,7 +53,7 @@ function Hero() {
           onClick={() =>
             document.getElementById('works')?.scrollIntoView({ behavior: 'smooth' })
           }
-          className="mt-6 bg-black text-white px-6 py-3 rounded-full shadow-md hover:bg-gray-900 transition-colors duration-300 font-medium tracking-wide text-sm sm:text-base"
+          className="mt-6 bg-white text-black px-6 py-3 rounded-full shadow-md hover:bg-gray-300 transition-colors duration-300 font-medium tracking-wide text-sm sm:text-base"
         >
           {t('viewPortfolio')}
         </motion.button>

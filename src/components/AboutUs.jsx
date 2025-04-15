@@ -1,77 +1,92 @@
-import React from 'react';
-import { useTranslation } from 'react-i18next';
-import { motion } from 'framer-motion';
-import { Puzzle, Compass, BadgeCheck } from 'lucide-react';
+import { motion } from "framer-motion";
+import {
+  FaGlobe,
+  FaShoppingCart,
+  FaCode,
+  FaRedo,
+  FaTools,
+  FaRocket,
+} from "react-icons/fa";
+import { useTranslation } from "react-i18next";
 
-function AboutUs() {
+const icons = [
+  <FaGlobe className="text-3xl text-black" />,
+  <FaShoppingCart className="text-3xl text-black" />,
+  <FaCode className="text-3xl text-black" />,
+  <FaRedo className="text-3xl text-black" />,
+  <FaTools className="text-3xl text-black" />,
+  <FaRocket className="text-3xl text-black" />,
+];
+
+const AboutUs = () => {
   const { t } = useTranslation();
-
-  const features = [
-    {
-      icon: <Puzzle className="h-8 w-8 text-black" />,
-      title: t('features.customSolutions.title'),
-      desc: t('features.customSolutions.desc'),
-    },
-    {
-      icon: <Compass className="h-8 w-8 text-black" />,
-      title: t('features.userCentric.title'),
-      desc: t('features.userCentric.desc'),
-    },
-    {
-      icon: <BadgeCheck className="h-8 w-8 text-black" />,
-      title: t('features.professionalPresence.title'),
-      desc: t('features.professionalPresence.desc'),
-    },
-  ];
+  const services = t("servicesSection.list", { returnObjects: true });
 
   return (
-    <section
-      id="about"
-      className="bg-white text-gray-800 overflow-x-hidden min-h-screen flex items-center"
-    >
-      <div className="max-w-7xl mx-auto w-full px-8 sm:px-10 md:px-16 lg:px-24 py-24 flex flex-col justify-center items-center text-center">
-        {/* Section Heading */}
-        <motion.h2
-          className="text-4xl sm:text-5xl font-extrabold text-black mb-10"
-          initial={{ opacity: 0, y: 30 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.8 }}
-        >
-          {t('aboutUs')}
-        </motion.h2>
+    <section id="about" className="py-24 px-4 bg-white">
+      <div className="max-w-7xl mx-auto">
+        <div className="container mx-auto px-6 md:px-12">
+          {/* <motion.h2
+            initial={{ opacity: 0, y: 40 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.8 }}
+            className="text-4xl font-bold text-black text-center mb-16"
+          >
+            {t("servicesSection.heading")}
+          </motion.h2> */}
+          {/* <h2 className="text-4xl font-bold text-black text-center mb-16"> */}
+          <h2 className="text-4xl md:text-5xl font-bold mt-2 text-center text-black mb-16">
+          {t("servicesSection.heading")}
+          </h2>
 
-        {/* Section Description */}
-        <motion.p
-          className="text-md sm:text-lg md:text-xl leading-relaxed text-gray-700 font-light max-w-3xl mb-20"
-          initial={{ opacity: 0, y: 30 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.8, delay: 0.2 }}
-        >
-          {t('aboutDescription')}
-        </motion.p>
+          <div className="grid gap-14 md:grid-cols-2">
+            {services.map((service, index) => (
+            //   <motion.div
+            //     key={index}
+            //     initial={{ opacity: 0, y: 40 }}
+            //     whileInView={{ opacity: 1, y: 0 }}
+            //     transition={{ duration: 0.6, delay: index * 0.2 }}
+            //     className="flex items-start gap-6"
+            //   >
+            <div className="flex items-start gap-6">
+                <div className="flex-shrink-0 p-4 bg-gray-100 rounded-full">
+                  {icons[index]}
+                </div>
+                <div>
+                  <h3 className="text-xl font-semibold text-black mb-2">
+                    {service.title}
+                  </h3>
+                  <p className="text-gray-600 max-w-md">{service.description}</p>
+                </div>
+                </div>
+            //   </motion.div>
+            ))}
+          </div>
 
-        {/* Features Grid */}
-        <div className="grid gap-10 md:grid-cols-3 max-w-5xl w-full">
-          {features.map((feature, index) => (
-            <motion.div
-              key={index}
-              initial={{ opacity: 0, y: 30 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.4, delay: index * 0.2 }}
-              viewport={{ once: true }}
-              className="bg-gray-50 rounded-2xl shadow-sm hover:shadow-md transition-shadow p-6 md:p-8 flex flex-col items-center text-center space-y-4"
+          {/* CTA Section */}
+          {/* <motion.div
+            initial={{ opacity: 0, y: 40 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.8 }}
+            className="mt-24 text-center bg-gray-100 rounded-3xl py-12 px-6 md:px-16 shadow-md"
+          >
+            <h3 className="text-2xl font-bold text-black mb-4">
+              {t("servicesSection.ctaTitle")}
+            </h3>
+            <p className="text-gray-600 max-w-2xl mx-auto mb-6">
+              {t("servicesSection.ctaSubtitle")}
+            </p>
+            <a
+              href="mailto:youremail@example.com"
+              className="inline-block bg-black text-white text-sm font-medium py-3 px-6 rounded-full hover:bg-gray-900 transition-colors duration-300"
             >
-              <div className="mb-2">{feature.icon}</div>
-              <h3 className="text-xl font-semibold tracking-tight">{feature.title}</h3>
-              <p className="text-gray-600 text-sm leading-relaxed">{feature.desc}</p>
-            </motion.div>
-          ))}
+              {t("servicesSection.ctaButton")}
+            </a>
+          </motion.div> */}
         </div>
       </div>
     </section>
   );
-}
+};
 
 export default AboutUs;

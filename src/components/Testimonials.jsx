@@ -17,17 +17,17 @@ const testimonials = [
     id: 2,
     testimonial: "testimonial2",
     name: "Jane Smith",
-    designation: "CTO",
+    designation: "",
     company: "InnovateX",
-    image: "./assets/swirl-pattern.jpg",
+    image: "/assets/r-a-pic.JPG",
   },
   {
     id: 3,
     testimonial: "testimonial3",
     name: "Emily Johnson",
-    designation: "Product Manager",
+    designation: "CEO",
     company: "FutureHub",
-    image: "./assets/swirl-pattern.jpg",
+    image: "/assets/f-a-pic.jpg",
   },
 ];
 
@@ -56,9 +56,9 @@ const TestimonialCard = ({
 
       <div className="flex items-center justify-between">
         <div className="flex flex-col">
-          <p className="text-black font-semibold text-lg">@{t(name)}</p>
+          <p className="text-black font-semibold text-lg">{t(name)}</p>
           <p className="text-gray-500 text-sm mt-1">
-            {t(designation)} {t("of")} {t(company)}
+            {t(designation)} {t(company)}
           </p>
         </div>
         <img
@@ -75,9 +75,9 @@ const Testimonials = () => {
   const { t } = useTranslation();
 
   return (
-    <section className="bg-gray-100 text-black px-6 md:px-12 py-24" id="testimonials">
+    <section className="bg-black text-white px-6 md:px-12 py-24" id="testimonials">
       <div className="text-center mb-20">
-        <p className="text-gray-500 uppercase tracking-wide text-sm mb-3">
+        <p className="text-white uppercase tracking-wide text-sm mb-3">
           {t("whatOthersSay")}
         </p>
         <h2 className="text-4xl md:text-5xl font-bold leading-snug">
