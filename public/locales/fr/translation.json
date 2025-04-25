@@ -196,28 +196,7 @@
           }
         ]
       },
-      {
-        "id": 2,
-        "title": "Site Web Personnalisé pour une Entreprise de Pâtisserie",
-        "images": ["/assets/lawlah-sweets-mockup.png"],
-        "link": "/projects/luxury-app",
-        "description": "Un site web chaleureux et accueillant qui met en valeur leur travail et permet aux clients de passer des commandes de gâteaux personnalisés en toute simplicité.",
-        "caseStudyDesc": "Nous nous sommes concentrés sur la simplification du parcours client — de l'inspiration visuelle à la commande personnalisée. Le résultat est un site magnifique et fonctionnel qui non seulement met en valeur leurs produits mais simplifie également le processus de commande, aidant l'entreprise à fonctionner plus efficacement tout en offrant une expérience premium.",
-        "gallery": [
-          {
-            "url": "/assets/lawlahsweets-showcase-ss.png",
-            "challenges": "Les clients ne pouvaient pas explorer facilement l'ensemble des gâteaux et pâtisseries, ce qui compliquait la prise de décision et la commande.",
-            "solutions": "Nous avons conçu un menu visuellement riche qui présente élégamment tous les produits de pâtisserie disponibles, organisés pour une navigation facile.",
-            "results": "L'affichage amélioré des produits permet aux clients de naviguer et de passer des commandes sans effort, créant une expérience utilisateur plus fluide et agréable."
-          },
-          {
-            "url": "/assets/custom-order-form.png",
-            "challenges": "Le processus de commande était manuel et inefficace, nécessitant une communication répétée pour capturer correctement les détails de la commande.",
-            "solutions": "Nous avons développé un formulaire de commande personnalisé, complet et facile à utiliser, avec des champs pour la taille, la saveur, les préférences de design et les demandes spéciales, le tout géré en ligne.",
-            "results": "L'entreprise reçoit désormais des commandes complètes et précises tout en économisant du temps sur l'administration, réduisant les erreurs et améliorant la satisfaction des clients."
-          }
-        ]
-      },
+    
       {
         "id": 3,
         "title": "Application de Prompt IA",

@@ -197,28 +197,7 @@
           }
         ]
       },
-      {
-        "id": 2,
-        "title": "Custom Website for a Bakery Business",
-        "link": "/projects/luxury-app",
-        "description": "A warm, inviting website that highlights their work and lets customers place custom cake orders with ease.",
-        "images": ["/assets/lawlah-sweets-mockup.png"],
-        "caseStudyDesc": "We focused on streamlining the customer journey — from visual inspiration to custom orders. The result is a beautiful, functional site that not only showcases their products but also simplifies the ordering process, helping the business run more efficiently while delivering a premium experience.",
-        "gallery": [
-          {
-            "url": "/assets/lawlahsweets-showcase-ss.png",
-            "challenges": "Customers couldn’t easily explore the full range of cakes and pastries, making it difficult to decide or place orders.",
-            "solutions": "We designed a visually rich menu that elegantly showcases all available baked goods, organized for easy browsing.",
-            "results": "The enhanced product display enables customers to browse and place orders effortlessly, creating a smoother, more enjoyable user experience."
-          },
-          {
-            "url": "/assets/custom-order-form.png",
-            "challenges": "The ordering process was manual and inefficient, requiring back-and-forth communication to capture order details accurately.",
-            "solutions": "We developed a comprehensive, easy-to-use custom order form with fields for size, flavor, design preferences, and special requests, all handled online.",
-            "results": "The business now receives complete, accurate orders while saving time on admin, reducing errors, and improving customer satisfaction."
-          }
-        ]
-      },
+    
       {
         "id": 3,
         "title": "AI Prompt Application",
