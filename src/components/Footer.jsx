@@ -1,10 +1,12 @@
 import {
     FaLocationArrow,
     FaFacebookF,
+    FaInstagram,
     FaTwitter,
     FaLinkedinIn,
   } from "react-icons/fa";
-  import { useTranslation } from "react-i18next";
+import { SiTiktok } from "react-icons/si";
+import { useTranslation } from "react-i18next";
   
   const Footer = () => {
     const { t } = useTranslation();
@@ -38,12 +40,13 @@ import {
           {/* CTA Button */}
           <div className="mt-10 flex justify-center">
             <a href="https://calendly.com/lawlahruth/strategy-session" target="_blank" rel="noopener noreferrer">
-              <button className="flex items-center gap-2 px-8 py-4 text-base bg-white text-black rounded-full hover:bg-gray-200 transition duration-300 shadow-xl">
+              <button className="flex items-center gap-2 px-6 py-4 text-base bg-white text-black rounded-full hover:bg-gray-200 transition duration-300 shadow-xl text-center whitespace-normal max-w-xs cursor-pointer">
                 <FaLocationArrow />
                 {t("footer.cta")}
               </button>
             </a>
           </div>
+
   
           {/* Contact Info */}
           <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-6 text-sm text-gray-400">
@@ -89,9 +92,9 @@ import {
             &copy; {new Date().getFullYear()} {t("footer.copyright")}
           </p>
   
-          {/* <div className="flex gap-5">
+          <div className="flex gap-5">
             <a
-              href="https://facebook.com"
+              href="https://www.facebook.com/profile.php?id=61575338021389"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Facebook"
@@ -99,22 +102,22 @@ import {
               <FaFacebookF className="text-white hover:text-gray-300 transition text-xl" />
             </a>
             <a
-              href="https://twitter.com"
+              href="https://www.instagram.com/madewithlux"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Twitter"
+              aria-label="Instagram"
             >
-              <FaTwitter className="text-white hover:text-gray-300 transition text-xl" />
+              <FaInstagram className="text-white hover:text-gray-300 transition text-xl" />
             </a>
-            <a
+            {/* <a
               href="https://linkedin.com"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
             >
               <FaLinkedinIn className="text-white hover:text-gray-300 transition text-xl" />
-            </a>
-          </div> */}
+            </a> */}
+          </div>
         </div>
       </section>
     );

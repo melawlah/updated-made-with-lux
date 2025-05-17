@@ -1,7 +1,7 @@
 {
     "hello": "Hello!",
     "bonjour": "Bonjour!",
-    "welcome": "We’re a web design & development agency based in Canada, creating beautiful, high-performing websites for brands around the world.",
+    "welcome": "We’re a web design and development agency in New Brunswick, Canada, specializing in beautiful, high-performing websites for businesses locally and globally.",
     "viewPortfolio": "View Our Works",
     "home": "Home",
     "aboutUs": "Our Services",
@@ -36,7 +36,7 @@
     "testimonial2": "Great experience working with the team. They were professional and nailed the vision for my portfolio.",
     "testimonial3": "The strategy session was outstanding. Highly recommend their service.",
     "of": "of",
-    "getInTouch": "Get in touch",
+    "getInTouch": "Book a Free Consultation",
     "yourName": "Your Name",
     "yourEmail": "Your Email",
     "yourMessage": "Your Message",
@@ -114,7 +114,7 @@
         "brand": "Made with Lux"
       },
       "subtitle": "Reach out today and let’s explore how we can bring your ideas to life.",
-      "cta": "Get in touch",
+      "cta": "Book a Free Consultation",
       "copyright": "Made with Lux. All rights reserved."
     },
     "howItWorksTagline": "Our Process",
@@ -138,43 +138,44 @@
     "viewLiveSite": "View Live Site",
     "servicesSection": {
       "heading": "What We Do",
+      "para": "Web design and development that blends strategy, creativity, and performance.",
       "ctaTitle": "Ready to work together?",
       "ctaSubtitle": "Let’s bring your vision to life with strategic design and seamless execution.",
-      "ctaButton": "Get in Touch",
+      "ctaButton": "Book a Free Consultation",
       "list": [
         {
-          "title": "Corporate Websites",
-          "description": "Professional, responsive websites to elevate your brand and build trust."
+          "title": "Corporate Website Design",
+          "description": "Professional, responsive website design to elevate your brand and build trust."
         },
         {
-          "title": "E-Commerce Websites",
-          "description": "Custom-built online stores designed for sales, growth, and conversion."
+          "title": "E-Commerce Web Design",
+          "description": "Custom-built web design for online stores, crafted to drive sales, growth, and conversions."
         },
         {
           "title": "Custom App Development",
-          "description": "Tailored web applications with smooth functionality and intuitive UX."
+          "description": "Tailored web applications with smooth functionality and intuitive user experience."
         },
         {
           "title": "Website Redesign",
-          "description": "Refresh your existing website with modern visuals and improved flow."
+          "description": "Refresh your existing website with modern web design, visuals, and a seamless user experience."
         },
         {
           "title": "Maintenance & Support",
-          "description": "Ongoing updates, fixes, and care to keep your site secure and fresh."
+          "description": "Ongoing website design updates, fixes, and maintenance to keep your site secure, and performing at its best."
         },
         {
           "title": "Strategy & Launch",
-          "description": "Full project guidance from planning to a seamless site launch."
+          "description": "Comprehensive web design support, guiding you from initial planning through to a smooth and successful site launch."
         }
       ]
     },
     "portfolio": [
       {
         "id": 1,
-        "title": "Website Redesign for an Event Planning & Rental Company",
+        "title": "Website Design for an Event Planning & Party Rental Company",
         "link": "https://eventsbylolar.com/",
         "description": "Made it easy for customers to explore services and book rentals online.",
-        "images": ["/assets/flortig-mock-up.png"],
+        "images": ["/assets/web-design-party-rental.png"],
         "caseStudyDesc": "Through strategic design and thoughtful development, we were able to address key challenges Events by Lorlar faced in customer engagement and service presentation. By implementing intuitive user experiences, clear service showcases, and valuable content, we helped drive stronger client interactions.",
         "gallery": [
           {

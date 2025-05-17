@@ -35,9 +35,17 @@ const AboutUs = () => {
             {t("servicesSection.heading")}
           </motion.h2> */}
           {/* <h2 className="text-4xl font-bold text-black text-center mb-16"> */}
-          <h2 className="text-4xl md:text-5xl font-bold mt-2 text-center text-black mb-16">
+          <h2 className="text-4xl md:text-5xl font-bold mt-2 text-center text-black mb-4">
           {t("servicesSection.heading")}
           </h2>
+          <motion.p
+            initial={{ opacity: 0, y: 30 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 1 }}
+            className="text-md sm:text-lg md:text-xl leading-relaxed text-gray-700 font-light max-w-3xl mx-auto mb-16"
+          >
+            {t("servicesSection.para")}
+          </motion.p>
 
           <div className="grid gap-14 md:grid-cols-2">
             {services.map((service, index) => (
