@@ -1,7 +1,7 @@
 # React + Vite
 
 View live site here:
-madewithlux.com
+https://madewithlux.com
 www.madewithlux.com
 
 
