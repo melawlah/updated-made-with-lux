@@ -5,6 +5,7 @@ import AboutUs from "./components/AboutUs"
 import Projects from "./components/Projects"
 import Testimonials from "./components/Testimonials"
 import HowItWorks from "./components/HowItWorks"
+import FaqSection from "./components/Faq"
 import Footer from "./components/Footer"
 
 
@@ -17,8 +18,9 @@ function App() {
           <Hero />
           <AboutUs /> 
           <Projects />
-         <Testimonials />
-           <HowItWorks />
+          <Testimonials />
+          <HowItWorks />
+          <FaqSection />
           <Footer /> 
         </main>
        </div>

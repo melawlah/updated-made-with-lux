@@ -229,8 +229,44 @@
           }
         ]
       }
-    ]
+    ],
  
+  "faqTitle": "Questions Fréquemment Posées",
+  "faqIntro": "Réponses aux questions courantes des propriétaires d'entreprise sur la conception de sites web.",
+  "faq": [
+   {
+      "question": "Quels résultats puis-je attendre en travaillant avec un designer web professionnel ?",
+      "answer": "Vous pouvez vous attendre à un site web qui reflète votre marque, attire votre audience idéale et convertit les visiteurs en clients — avec un fort accent sur la croissance, la crédibilité et une meilleure visibilité en ligne."
+    },
+    {
+      "question": "Travaillez-vous uniquement avec des entreprises au Nouveau-Brunswick ?",
+      "answer": "Non. Bien que nous soyons basés au Nouveau-Brunswick, nous collaborons avec des entreprises partout au Canada et à l'international. La distance n’est jamais un frein."
+    },
+    {
+      "question": "Combien coûte un projet de design web ?",
+      "answer": "Chaque entreprise est unique, tout comme ses besoins en design web. Nous ne proposons pas de tarifs standard — nous offrons une consultation gratuite pour comprendre vos objectifs, l’étendue du projet et votre budget. Ensuite, nous vous fournirons un devis clair et personnalisé."
+    },
+    {
+      "question": "Combien de temps dure un projet de design web ?",
+      "answer": "La plupart des projets de conception de site web prennent entre 4 et 8 semaines, selon les objectifs, la complexité et la disponibilité du contenu."
+    },
+    {
+      "question": "Mon site sera-t-il adapté aux mobiles et optimisé pour le SEO ?",
+      "answer": "Oui. Chaque site que nous développons est responsive (adapté aux mobiles) et respecte les meilleures pratiques SEO pour améliorer votre visibilité sur Google."
+    },
+    {
+      "question": "Offrez-vous de la maintenance après la mise en ligne ?",
+      "answer": "Bien sûr. Nous proposons des forfaits de maintenance pour garantir que votre site reste rapide, sécurisé et à jour — pendant que vous vous concentrez sur votre activité."
+    },
+    {
+      "question": "Pouvez-vous nous aider à repenser ou à redéfinir notre image de marque ?",
+      "answer": "Oui. Que vous lanciez une nouvelle marque ou modernisiez votre site actuel, nous créons des designs qui reflètent votre image de marque et séduisent vos clients idéaux."
+    }
+  ]
+
+
+
+
     
       
       

@@ -231,5 +231,39 @@
           }
         ]
       }
-    ]
+    ],
+  "faqTitle": "Frequently Asked Questions",
+  "faqIntro": "Answers to common questions our clients have about our web design services.",
+  "faq": [
+    {
+      "question": "What results can I expect from working with a professional web designer?",
+      "answer": "You can expect a website that reflects your brand, attracts the right audience, and helps convert visitors into leads with a strong focus on results like growth, credibility, and better visibility online."
+    },
+    {
+      "question": "Do you only work with businesses in New Brunswick?",
+      "answer": "No, while we’re based in New Brunswick, Canada, we work with businesses across Canada and internationally. Location is not a barrier."
+    },
+    {
+      "question": "How much does web design cost?",
+      "answer": "Every business is unique, and so are their web design needs. We don’t offer one-size-fits-all pricing, instead, we provide a free consultation to understand your goals, project scope, and budget. Then, we’ll give you a clear, tailored quote that fits your business needs."
+    },
+    {
+      "question": "How long does a web design project take?",
+      "answer": "Most web design projects take between 4 to 8 weeks. This depends on your goals, project complexity, and how quickly content is ready."
+    },
+    {
+      "question": "Will my website be mobile-friendly and SEO-optimized?",
+      "answer": "Absolutely. Every website we design is responsive on all devices and follows SEO best practices to help you rank better in search engines."
+    },
+    {
+      "question": "Can you update or maintain my website after it’s launched?",
+      "answer": "Yes. We offer website maintenance and support packages to keep your site fast, secure, and up to date, so you can focus on running your business."
+    },
+    {
+      "question": "Can you help with branding or redesigning our current website?",
+      "answer": "Yes. Whether you're starting from scratch or rebranding, we offer branding and web design services that will align with your brand and speak to your ideal audience."
+    }
+  ]
+
+
   }
