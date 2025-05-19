@@ -55,7 +55,7 @@ import { useTranslation } from "react-i18next";
               href="mailto:hello@madewithlux.com"
               className="flex items-center gap-2 hover:text-white transition"
             >
-            <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.293 7.293a1 1 0 001.414 0L21 8m0 8V5a2 2 0 00-2-2H5a2 2 0 00-2 2v11a2 2 0 002 2h14a2 2 0 002-2z" />
             </svg>
 
