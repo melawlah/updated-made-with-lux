@@ -2,6 +2,9 @@ import React, { useState, useEffect } from 'react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/solid';
 import { useTranslation } from 'react-i18next';
 import clsx from 'clsx';
+import {
+    FaLocationArrow
+  } from "react-icons/fa";
 
 function Nav() {
   const [isOpen, setIsOpen] = useState(false);
@@ -82,6 +85,16 @@ function Nav() {
               </a>
             </li>
           ))}
+          {/* <div className="flex justify-center"> */}
+          <li> 
+            <a href="https://calendly.com/lawlahruth/strategy-session" target="_blank" rel="noopener noreferrer">
+              <button className="flex items-center gap-2 px-4 py-3 text-xs bg-white text-black rounded-full hover:bg-gray-200 transition duration-300 shadow-xl text-center whitespace-normal max-w-xs cursor-pointer">
+                <FaLocationArrow />
+                {t("footer.cta")}
+              </button>
+            </a>
+          </li>
+          {/* </div> */}
 
           {/* Language Toggle */}
           <li>
@@ -115,6 +128,14 @@ function Nav() {
             ))}
 
             {/* Language Toggle */}
+            <li> 
+              <a href="https://calendly.com/lawlahruth/strategy-session" target="_blank" rel="noopener noreferrer">
+                <button className="flex items-center gap-2 px-4 py-2 text-xs bg-white text-black rounded-full hover:bg-gray-200 transition duration-300 shadow-xl text-center whitespace-normal max-w-xs cursor-pointer">
+                  <FaLocationArrow />
+                  {t("footer.cta")}
+                </button>
+              </a>
+            </li>
             <li>
               <button
                 onClick={() => changeLanguage(i18n.language === 'en' ? 'fr' : 'en')}
