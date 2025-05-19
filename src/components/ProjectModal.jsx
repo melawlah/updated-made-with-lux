@@ -166,6 +166,7 @@ const ProjectModal = ({ project, closeModal }) => {
             <img
               src={selectedImage?.url || project.image}
               alt={project.title}
+              title={project.title}
               className="w-full h-auto rounded-lg border border-gray-200 mb-6"
             />
             {project.gallery?.length > 1 && (

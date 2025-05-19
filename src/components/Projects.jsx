@@ -294,6 +294,7 @@ const Projects = () => {
               <img
                 src={project.images[0]} // First image as the preview
                 alt={project.title}
+                title={project.title}
                 className="w-full object-cover group-hover:scale-110 transition-all duration-300"
               />
               <div className="absolute inset-0 bg-gradient-to-b from-black/50 to-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
