@@ -88,7 +88,7 @@ function Nav() {
           {/* <div className="flex justify-center"> */}
           <li> 
             <a href="https://calendly.com/lawlahruth/strategy-session" target="_blank" rel="noopener noreferrer">
-              <button className="flex items-center gap-2 px-4 py-3 text-xs bg-white text-black rounded-full hover:bg-gray-200 transition duration-300 shadow-xl text-center whitespace-normal max-w-xs cursor-pointer">
+              <button className="flex items-center gap-2 px-4 py-3 text-sm font-medium bg-white text-black rounded-full hover:bg-gray-200 transition duration-300 shadow-xl text-center whitespace-normal max-w-xs cursor-pointer">
                 <FaLocationArrow />
                 {t("footer.cta")}
               </button>
