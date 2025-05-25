@@ -21,7 +21,7 @@ import { useTranslation } from "react-i18next";
           <img
             src="/footer-grid.svg"
             alt="Grid Background"
-            title="web design company footer image"
+            title="web design made with lux footer image"
             className="w-full h-full object-cover opacity-20"
           />
         </div>

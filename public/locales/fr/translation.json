@@ -180,36 +180,57 @@
         "caseStudyDesc": "Grâce à une conception stratégique et un développement réfléchi, nous avons pu résoudre les principaux défis auxquels Events by Lorlar était confronté en matière d'engagement des clients et de présentation des services. En mettant en œuvre des expériences utilisateur intuitives, des vitrines de services claires et un contenu précieux, nous avons contribué à renforcer les interactions avec les clients.",
         "gallery": [
           {
-            "url": "/assets/flortig-shop-ss.png",
+            "url": "/assets/web-design-flortig-shop.png",
             "challenges": "Les clients manquaient d'un moyen facile et intuitif de parcourir et de louer des articles en ligne, ce qui entraînait un processus de réservation compliqué.",
             "solutions": "Nous avons développé un magasin de location simplifié et convivial permettant aux clients de parcourir et de réserver des articles en toute simplicité.",
             "results": "Le nouveau système a facilité la location d'articles en ligne, réduisant les allers-retours."
           },
           {
-            "url": "/assets/event-planning-fortig.png",
+            "url": "/assets/web-design-event-planning-fortig.png",
             "challenges": "Le site web ne communiquait pas efficacement l'ensemble des services de planification d'événements, laissant les clients potentiels incertains de la valeur offerte.",
             "solutions": "Nous avons créé une section dédiée et visuellement attrayante pour mettre en valeur les services de planification d'événements et présenter les travaux passés de manière professionnelle.",
             "results": "La nouvelle présentation des services a amélioré la compréhension des offres de l'entreprise par les clients, ce qui a permis d'attirer et de convaincre davantage de clients potentiels."
           },
           {
-            "url": "/assets/blogpage-flortig 4.png",
+            "url": "/assets/web-design-blogpage-flortig.png",
             "challenges": "Le site manquait d'une plateforme centrale pour partager du contenu précieux, comme des conseils, des tendances et des inspirations sur la planification d'événements, limitant ainsi les opportunités d'interagir avec les clients potentiels.",
             "solutions": "Nous avons ajouté une section de blog dynamique où l'équipe peut régulièrement partager des idées, des tendances et des événements, positionnant ainsi la marque en tant qu'autorité dans le secteur.",
             "results": "Le blog favorisera une confiance accrue avec les visiteurs, mettant en valeur l'expertise et facilitant la connexion avec les clients potentiels."
           }
         ]
       },
-    
+        {
+        "id": 2,
+        "title": "Site Web Personnalisé pour une Entreprise de Pâtisserie",
+        "images": ["/assets/lawlah-sweets-mockup.png"],
+        "link": "https://lawlahsweets.vercel.app/",
+        "description": "Un site web chaleureux et accueillant qui met en valeur leur travail et permet aux clients de passer des commandes de gâteaux personnalisés en toute simplicité.",
+        "caseStudyDesc": "Nous nous sommes concentrés sur la simplification du parcours client — de l'inspiration visuelle à la commande personnalisée. Le résultat est un site magnifique et fonctionnel qui non seulement met en valeur leurs produits mais simplifie également le processus de commande, aidant l'entreprise à fonctionner plus efficacement tout en offrant une expérience premium.",
+        "gallery": [
+          {
+            "url": "/assets/web-design-bakery-showcase-ss.png",
+            "challenges": "Les clients ne pouvaient pas explorer facilement l'ensemble des gâteaux et pâtisseries, ce qui compliquait la prise de décision et la commande.",
+            "solutions": "Nous avons conçu un menu visuellement riche qui présente élégamment tous les produits de pâtisserie disponibles, organisés pour une navigation facile.",
+            "results": "L'affichage amélioré des produits permet aux clients de naviguer et de passer des commandes sans effort, créant une expérience utilisateur plus fluide et agréable."
+          },
+          {
+            "url": "/assets/web-design-bakery-order-form.png",
+            "challenges": "Le processus de commande était manuel et inefficace, nécessitant une communication répétée pour capturer correctement les détails de la commande.",
+            "solutions": "Nous avons développé un formulaire de commande personnalisé, complet et facile à utiliser, avec des champs pour la taille, la saveur, les préférences de design et les demandes spéciales, le tout géré en ligne.",
+            "results": "L'entreprise reçoit désormais des commandes complètes et précises tout en économisant du temps sur l'administration, réduisant les erreurs et améliorant la satisfaction des clients."
+          }
+        ]
+      },
       {
         "id": 3,
         "title": "Application de Prompt IA",
-        "images": ["/assets/ipad-prototype.png"],
+        "images": ["/assets/web-design-ai-application.png"],
         "link": "https://ai-prompts-app-one.vercel.app/",
         "description": "Un outil de génération de prompts IA open-source pour découvrir, créer et partager des prompts créatifs.",
         "caseStudyDesc": "Ce projet vise à donner du pouvoir aux créateurs dans le domaine de l'IA. En construisant un outil moderne et open-source axé sur l'accessibilité et le design, nous avons transformé une idée en une plateforme collaborative et communautaire pour l'avenir de la créativité IA.",
         "gallery": [
           {
-            "url": "/assets/promptopia-project-img.png",
+            "url": "/assets/web-design-promptopia-project.png",
             "challenges": "Il n'existait pas de plateforme visuellement engageante et facile à utiliser pour découvrir et partager des prompts IA, surtout pour un public moderne et créatif.",
             "solutions": "Nous avons conçu et développé une application web open-source où les utilisateurs peuvent explorer, créer et partager des prompts IA facilement. L'interface met l'accent sur la simplicité, la communauté et la créativité, avec des outils intégrés pour gérer et présenter les prompts.",
             "results": "Les utilisateurs ont désormais un espace centralisé et intuitif pour organiser, réutiliser et découvrir des prompts IA, gagnant du temps et stimulant une créativité plus constante."
@@ -225,7 +246,7 @@
         "caseStudyDesc": "Ce projet a consisté à combler l'écart entre la profondeur technique et la narration visuelle. En repensant la manière dont les projets de portfolio sont présentés, nous avons créé une expérience plus inclusive, professionnelle et percutante qui communique mieux les compétences et la valeur du développeur.",
         "gallery": [
           {
-            "url": "/assets/r-portfolio-website-update.png",
+            "url": "/assets/web-design-ruth-portfolio-website-update.png",
             "challenges": "Bien que chaque projet ait un README détaillé sur GitHub, le portfolio manquait de présentation visuelle, ce qui le rendait moins accessible aux visiteurs non techniques et aux collaborateurs potentiels.",
             "solutions": "Nous avons conçu et développé une section dédiée du portfolio qui transforme les projets GitHub en présentations attrayantes, complètes avec des visuels, des résumés concis et les principales technologies utilisées, adaptées à la fois pour un public technique et non technique.",
             "results": "Le portfolio fournit désormais un aperçu clair et visuellement riche du travail du développeur, permettant aux visiteurs de saisir rapidement l'étendue, l'impact et la pertinence du projet en un coup d'œil."
