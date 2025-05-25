@@ -65,7 +65,7 @@
       }
     },
     "projects": {
-      "title": "Nos Derniers Projets",
+      "title": "Nos Derniers Projets", 
       "subtitle": "Une sélection soignée de notre travail qui reflète notre passion pour le design et les résultats.",
       "prev": "Précédent",
       "next": "Suivant",
@@ -139,6 +139,7 @@
     "viewLiveSite": "Voir le site",
     "servicesSection": {
       "heading": "Ce Que Nous Faisons",
+      "para": "Conception et développement web alliant stratégie, créativité et performance.",
       "ctaTitle": "Prêt à travailler ensemble ?",
       "ctaSubtitle": "Donnons vie à votre vision avec un design stratégique et une exécution parfaite.",
       "ctaButton": "Contactez-nous",

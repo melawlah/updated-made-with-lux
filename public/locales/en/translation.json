@@ -4,10 +4,10 @@
     "welcome": "We’re a web design and development agency in New Brunswick, Canada, specializing in beautiful, high-performing websites for businesses locally and globally.",
     "welcome1": "Web Design New Brunswick",
     "welcome2": "We're a creative web design and development agency building beautiful, high-performing websites for local and global businesses.", 
-    "viewPortfolio": "View Our Works",
+    "viewPortfolio": "View Our Work",
     "home": "Home",
     "aboutUs": "Our Services",
-    "ourWorks": "Our Works",
+    "ourWorks": "Our Work",
     "testimonials": "Testimonials",
     "ourProcess": "Our Process",
     "contactUs": "Contact Us",
@@ -67,7 +67,7 @@
     "projects": {
       "title": "Our Latest Projects",
       "contactUs": "",
-      "subtitle": "A curated selection of our works",
+      "subtitle": "A curated selection of our web design work",
       "prev": "Previous",
       "next": "Next",
       "ecommerce": {
@@ -178,25 +178,25 @@
         "link": "https://eventsbylolar.com/",
         "description": "Made it easy for customers to explore services and book rentals online.",
         "images": ["/assets/web-design-party-rental.png"],
-        "caseStudyDesc": "Through strategic design and thoughtful development, we were able to address key challenges Events by Lorlar faced in customer engagement and service presentation. By implementing intuitive user experiences, clear service showcases, and valuable content, we helped drive stronger client interactions.",
+        "caseStudyDesc": "Through strategic web design and thoughtful development, we helped Events by Lolar overcome key challenges in customer engagement and service presentation. By creating a clean, intuitive user experience and clearly showcasing their services, we improved how potential clients interacted with the brand, leading to stronger trust and better conversion opportunities.",
         "gallery": [
           {
-            "url": "/assets/flortig-shop-ss.png",
-            "challenges": "Customers lacked an easy, intuitive way to browse and rent items online, resulting in a cumbersome booking process.",
-            "solutions": "We developed a streamlined, user-friendly rental store allowing customers to effortlessly browse and book items with just a few clicks.",
-            "results": "The new system has made it easier for customers to easily rent items online, reducing back-and-forth."
+            "url": "/assets/web-design-flortig-shop.png",
+            "challenges": "Poor web design made it difficult for customers to browse and rent items online, resulting in a frustrating and inefficient booking experience.",
+            "solutions": "We crafted a user-friendly web design that transformed the rental store into a seamless experience, making it easy for customers to browse and book with just a few clicks.",
+            "results": "The updated web design simplified online rentals for customers and reduced unnecessary back-and-forth, streamlining the rental process"
           },
           {
-            "url": "/assets/event-planning-fortig.png",
-            "challenges": "The website did not effectively communicate the full range of event planning services, leaving potential clients uncertain about the value offered.",
-            "solutions": "We created a dedicated, visually engaging section to highlight event planning services and showcase past work in a professional manner.",
-            "results": "The new service presentation has improved client understanding of the business's offerings, helping attract and engage more prospective clients."
+            "url": "/assets/web-design-event-planning-fortig.png",
+            "challenges": "The initial website design did not effectively communicate the full range of event planning services, leaving potential clients uncertain about the value offered.",
+            "solutions": "We used strategic web design to create a dedicated, visually engaging section that highlights event planning services, showcases past work professionally, and makes it easy for customers to book an appointment.",
+            "results": "The new web design improved how services are presented, making it easier for clients to understand the business’s offerings and helping attract and engage more prospective customers."
           },
           {
-            "url": "/assets/blogpage-flortig 4.png",
-            "challenges": "The site lacked a central platform for sharing valuable content like event planning tips, trends, and inspiration, limiting opportunities to engage with potential clients.",
-            "solutions": "We added a dynamic blog section where the team can regularly share insights, trends, and event ideas, positioning the brand as an authority in the industry.",
-            "results": "The blog will foster increased trust with visitors, showcasing expertise and making it easier for potential clients to connect with and choose the services."
+            "url": "/assets/web-design-blogpage-flortig.png",
+            "challenges": "The previous web design lacked a central platform for sharing valuable content like event planning tips, trends, and inspiration, limiting opportunities to attract and engage potential clients.",
+            "solutions": "Through strategic web design, we added a dynamic blog section where the team can regularly share insights, trends, and event ideas, positioning the brand as a trusted authority in the industry.",
+            "results": "The blog, integrated through thoughtful web design, helps build trust with visitors by showcasing expertise and making it easier for potential clients to connect and choose the services."
           }
         ]
       },
