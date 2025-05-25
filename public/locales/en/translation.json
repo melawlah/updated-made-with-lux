@@ -34,7 +34,7 @@
     "Project Three Case Study": "Project Three combined branding and UI/UX to create a memorable digital experience. It improved customer satisfaction by 25%.",
     "Close": "Close",
     "whatOthersSay": "What our clients say",
-    "testimonial1": "Our website looks beautiful and makes ordering easier for our customers.",
+    "testimonial1": "Our website design is beautiful and makes ordering easier for our customers.",
     "testimonial2": "Great experience working with the team. They were professional and nailed the vision for my portfolio.",
     "testimonial3": "The strategy session was outstanding. Highly recommend their service.",
     "of": "of",
@@ -121,10 +121,10 @@
     },
     "howItWorksTagline": "Our Process",
     "howItWorksTitle": "How It Works",
-    "howItWorksDesc": "From consultation to launch, here's how we bring your website to life.",
+    "howItWorksDesc": "From consultation to launch, here's how we bring your website design to life.",
     "step1Title": "Free Strategy Session",
     "step1Desc": "Our web design process starts with a call to understand your goals and challenges.",
-    "step2Title": "Strategy Document",
+    "step2Title": "Free Strategy Document",
     "step2Desc": "We prepare a custom web design strategy aligned with your business objectives.",
     "step3Title": "Design the Prototype",
     "step3Desc": "Our team designs a modern prototype that brings your web design vision to life.",
@@ -203,17 +203,17 @@
     
       {
         "id": 3,
-        "title": "AI Prompt Application",
-        "images": ["/assets/ipad-prototype.png"],
+        "title": "Web design solution for AI prompt application.",
+        "images": ["/assets/web-design-ai-application.png"],
         "link": "https://ai-prompts-app-one.vercel.app/",
         "description": "An open-source AI prompting tool for the modern world to discover, create, and share creative prompts.",
-        "caseStudyDesc": "This project is all about empowering creators in the AI space. By building a modern, open-source tool focused on accessibility and design, we helped turn an idea into a collaborative, community-driven platform for the future of AI creativity.",
+        "caseStudyDesc": "This project empowers creators in the AI space through modern web design and development. By building an accessible, open-source tool focused on intuitive design, we helped transform an idea into a collaborative, community-driven platform shaping the future of AI creativity.",
         "gallery": [
           {
-            "url": "/assets/promptopia-project-img.png",
-            "challenges": "There was no visually engaging, user-friendly platform for discovering and sharing AI prompts — especially one that caters to a modern, creative audience.",
-            "solutions": "We designed and developed an open-source web app where users can explore, create, and share AI prompts effortlessly. The interface emphasizes simplicity, community, and creativity, with built-in tools for managing and showcasing prompts.",
-            "results": "Users now have a centralized, intuitive space to organize, reuse, and discover AI prompts — saving time and sparking more consistent creativity."
+            "url": "/assets/web-design-promptopia-project.png",
+            "challenges": "There was no visually engaging, user-friendly platform with thoughtful web design for discovering and sharing AI prompts, especially one that caters to a modern, creative audience.",
+            "solutions": "We crafted the web design and development for an open-source web app where users can effortlessly explore, create, and share AI prompts. The interface emphasizes simplicity, community, and creativity, featuring built-in tools for managing and showcasing prompts.",
+            "results": "Users now have a centralized, intuitively designed web space to organize, reuse, and discover AI prompts, saving time and fostering more consistent creativity."
           }
         ]
       },
@@ -221,15 +221,15 @@
         "id": 4,
         "title": "Portfolio Website Design for a Software Developer",
         "description": "A professional, easy-to-navigate website that highlights their work, experience, and writing.",
-        "images": [ "/assets/r-ariyo-portfolio-mockup.png"],
+        "images": [ "/assets/web-design-ruth-ariyo-portfolio.png"],
         "link": "https://ruth-portfolio-iota.vercel.app/",
-        "caseStudyDesc": "This project focused on bridging the gap between technical depth and visual storytelling. By reimagining how portfolio projects are presented, we created a more inclusive, professional, and impactful experience that better communicates the developer's skills and value.",
+        "caseStudyDesc": "This website design project focused on bridging the gap between technical depth and visual storytelling. By reimagining how portfolio projects are presented, we created a more inclusive, professional, and impactful experience that better communicates the developer's skills and value.",
         "gallery": [
           {
-            "url": "/assets/r-portfolio-website-update.png",
-            "challenges": "While each project had a detailed README on GitHub, the portfolio lacked a visual presentation, making it less accessible to non-technical visitors and potential collaborators.",
-            "solutions": "We designed and developed a dedicated portfolio section that transforms GitHub projects into engaging showcases — complete with visuals, concise summaries, and key tech stacks — tailored for both technical and non-technical audiences.",
-            "results": "The portfolio now provides a clear, visually rich overview of the developer’s work, allowing visitors to quickly grasp project scope, impact, and relevance at a glance."
+            "url": "/assets/web-design-ruth-portfolio-website-update.png",
+            "challenges": "While each project the client has worked on had a detailed README on GitHub, the portfolio lacked a visual presentation, making it less accessible to non-technical visitors and potential collaborators.",
+            "solutions": "We crafted the web design and development of a dedicated portfolio section that transforms GitHub projects into engaging showcases — featuring visuals, concise summaries, and key tech stacks, tailored for both technical and non-technical audiences.",
+            "results": "The improved web design provides a clear, visually rich portfolio overview, enabling visitors to quickly grasp the developer’s project scope, impact, and relevance at a glance."
           }
         ]
       }
@@ -239,7 +239,7 @@
   "faq": [
     {
       "question": "What results can I expect from working with a professional web designer?",
-      "answer": "You can expect a website that reflects your brand, attracts the right audience, and helps convert visitors into leads with a strong focus on results like growth, credibility, and better visibility online."
+      "answer": "You can expect a website design that reflects your brand, attracts the right audience, and helps convert visitors into leads with a strong focus on results like growth, credibility, and better visibility online."
     },
     {
       "question": "Do you only work with businesses in New Brunswick?",
