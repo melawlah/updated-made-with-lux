@@ -2,6 +2,8 @@
     "hello": "Bonjour!",
     "bonjour": "Hello!",
     "welcome": "Nous sommes une agence de conception et de développement web basée au Canada, créant des sites web magnifiques et performants pour des marques du monde entier.",
+    "welcome1": "Conception Web Nouveau-Brunswick",
+    "welcome2": "Nous sommes une agence créative de conception et de développement web, créant des sites web magnifiques et performants pour des entreprises locales et internationales.",
     "viewPortfolio": "Voir Nos Réalisations",
     "home": "Accueil",
     "aboutUs": "Nos services",
@@ -172,7 +174,7 @@
         "id": 1,
         "title": "Refonte du site web pour une entreprise de planification d'événements et de location",
         "link": "https://eventsbylolar.com/",
-        "images": ["/assets/flortig-mock-up.png"],
+        "images": ["/assets/web-design-party-rental.png"],
         "description": "Facilité pour les clients d'explorer les services et de réserver des locations en ligne.",
         "caseStudyDesc": "Grâce à une conception stratégique et un développement réfléchi, nous avons pu résoudre les principaux défis auxquels Events by Lorlar était confronté en matière d'engagement des clients et de présentation des services. En mettant en œuvre des expériences utilisateur intuitives, des vitrines de services claires et un contenu précieux, nous avons contribué à renforcer les interactions avec les clients.",
         "gallery": [

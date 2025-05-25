@@ -43,9 +43,20 @@ function Hero() {
           {splitLetters(greeting)}
         </h1>
 
-        <p className="text-white text-sm sm:text-base md:text-lg lg:text-xl max-w-2xl font-light tracking-wide">
-          {t('welcome')}
+         <h1 className="text-white text-md sm:text-base md:text-xl lg:text-2xl max-w-3xl font-medium tracking-wide">
+          {t('welcome1')}
+        </h1>
+         <p className="text-white text-sm sm:text-base md:text-lg lg:text-xl max-w-2xl font-light tracking-wide">
+          {t('welcome2')}
         </p>
+
+        {/* <h2 className="text-white text-lg sm:text-xl md:text-2xl lg:text-3xl font-medium max-w-3xl mx-auto mb-3 tracking-wide">
+          {t('welcome1')}
+        </h2>
+
+        <p className="text-white text-base sm:text-lg md:text-xl lg:text-2xl font-light max-w-2xl mx-auto tracking-normal">
+          {t('welcome2')}
+        </p> */}
 
         <motion.button
           whileHover={{ scale: 1.05 }}
