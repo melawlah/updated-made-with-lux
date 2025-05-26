@@ -202,7 +202,7 @@
         {
         "id": 2,
         "title": "Site Web Personnalisé pour une Entreprise de Pâtisserie",
-        "images": ["/assets/lawlah-sweets-mockup.png"],
+        "images": ["/assets/web-design-bakery-lawlah-sweets.png"],
         "link": "https://lawlahsweets.vercel.app/",
         "description": "Un site web chaleureux et accueillant qui met en valeur leur travail et permet aux clients de passer des commandes de gâteaux personnalisés en toute simplicité.",
         "caseStudyDesc": "Nous nous sommes concentrés sur la simplification du parcours client — de l'inspiration visuelle à la commande personnalisée. Le résultat est un site magnifique et fonctionnel qui non seulement met en valeur leurs produits mais simplifie également le processus de commande, aidant l'entreprise à fonctionner plus efficacement tout en offrant une expérience premium.",
@@ -240,7 +240,7 @@
       {
         "id": 4,
         "title": "Site Web de Portfolio pour un Développeur Logiciel",
-        "images": [ "/assets/r-ariyo-portfolio-mockup.png"],
+        "images": [ "/assets/web-design-ruth-ariyo-portfolio.png"],
         "link": "https://ruth-portfolio-iota.vercel.app/",
         "description": "Un site web professionnel et facile à naviguer qui met en valeur son travail, son expérience et ses écrits.",
         "caseStudyDesc": "Ce projet a consisté à combler l'écart entre la profondeur technique et la narration visuelle. En repensant la manière dont les projets de portfolio sont présentés, nous avons créé une expérience plus inclusive, professionnelle et percutante qui communique mieux les compétences et la valeur du développeur.",
