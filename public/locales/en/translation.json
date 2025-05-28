@@ -1,8 +1,8 @@
 {
     "hello": "Hello!",
     "bonjour": "Bonjour!",
-    "welcome": "We’re a web design and development agency in Ontario, Canada, specializing in beautiful, high-performing websites for businesses locally and globally.",
-    "welcome1": "Web Design Ontario",
+    "welcome": "We’re a web design and development agency in New Brunswick, Canada, specializing in beautiful, high-performing websites for businesses locally and globally.",
+    "welcome1": "Web Design New Brunswick",
     "welcome2": "We're a creative web design and development agency building beautiful, high-performing websites for local and global businesses.", 
     "viewPortfolio": "View Our Work",
     "home": "Home",
@@ -264,8 +264,8 @@
       "answer": "You can expect a website design that reflects your brand, attracts the right audience, and helps convert visitors into leads with a strong focus on results like growth, credibility, and better visibility online."
     },
     {
-      "question": "Do you only work with businesses in Ontario?",
-      "answer": "No, while we’re based in Ontario, Canada, we work with businesses across Canada and internationally. Location is not a barrier."
+      "question": "Do you only work with businesses in New Brunswick?",
+      "answer": "No, while we’re based in New Brunswick, Canada, we work with businesses across Canada and internationally. Location is not a barrier."
     },
     {
       "question": "How much does web design cost?",
