@@ -64,7 +64,7 @@ function Hero() {
           onClick={() =>
             document.getElementById('works')?.scrollIntoView({ behavior: 'smooth' })
           }
-          className="mt-6 bg-white text-black px-6 py-3 rounded-full shadow-md hover:bg-gray-300 transition-colors duration-300 font-medium tracking-wide text-sm sm:text-base"
+          className="mt-6 bg-white text-black px-6 py-3 rounded-full shadow-md hover:bg-gray-300 transition-colors duration-300 font-medium tracking-wide text-sm sm:text-base cursor-pointer"
         >
           {t('viewPortfolio')}
         </motion.button>
