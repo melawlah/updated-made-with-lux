@@ -109,14 +109,14 @@ import { useTranslation } from "react-i18next";
             >
               <FaInstagram className="text-white hover:text-gray-300 transition text-xl" />
             </a>
-            {/* <a
-              href="https://linkedin.com"
+            <a
+              href="https://www.linkedin.com/company/made-with-lux"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
             >
               <FaLinkedinIn className="text-white hover:text-gray-300 transition text-xl" />
-            </a> */}
+            </a>
           </div>
         </div>
       </section>
