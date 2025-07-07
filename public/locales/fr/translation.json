@@ -173,9 +173,53 @@
     "portfolio": [
       {
         "id": 1,
+        "title": "Conception de Site Web pour une Marque de Mode Haut de Gamme",
+        "description": "Une expérience d’achat à la fois élégante et intuitive, conçue pour une clientèle mode contemporaine.",
+        "images": ["/assets/web-design-luxury-fashion-business-e-commerce.png"],
+        "link": "https://funmikelondon.com",
+        "caseStudyDesc":  "Ce projet e-commerce a été conçu pour refléter le caractère haut de gamme de la marque, avec un fort accent sur l’identité visuelle, la création de confiance et la conversion. De la navigation intuitive aux sections de contenu stratégiques, le site permet à la marque de faire forte impression et de convertir efficacement ses visiteurs.",
+        "gallery": [
+          {
+            "url": "/assets/web-design-fashion-shop.png",
+            "challenges": "La marque avait besoin d’un site web à la fois haut de gamme et fonctionnel, capable de séduire une clientèle exigeante tout en restant simple à utiliser.",
+            "solutions": "Nous avons conçu un site e-commerce épuré, moderne et responsive. La navigation est fluide et le parcours d’achat optimisé, afin d’accompagner naturellement l’utilisateur vers la finalisation de sa commande.",
+            "results":  "Le nouveau site offre une expérience d’achat intuitive et élégante, qui répond aux attentes d’une clientèle à la fois mode et pragmatique."
+          },
+          {
+            "url": "/assets/web-design-trust-section.png",
+            "challenges":  "La marque, encore jeune, devait instaurer un climat de confiance auprès des nouveaux visiteurs avant de pouvoir vendre ses pièces premium.",
+            "solutions": "Nous avons intégré des éléments clés de réassurance comme des témoignages clients, des informations claires sur la livraison et les retours, ainsi que des coordonnées visibles. Ces blocs ont été positionnés stratégiquement sur les pages produit et panier.",
+            "results": "Les visiteurs se sentent désormais plus en confiance pour finaliser leur achat, renforçant ainsi la crédibilité de la marque et favorisant la conversion."
+          },
+          {
+            "url": "/assets/web-design-luxury-fashion-brand-about.png",
+            "challenges": "La marque ne disposait pas encore d’un espace digital capable de transmettre efficacement son histoire, ses valeurs et son identité visuelle.",
+            "solutions": "Nous avons créé une page À propos percutante et intégré des éléments de storytelling sur la page d’accueil. L’utilisation d’images de haute qualité, d’une typographie affirmée et d’une identité graphique cohérente a renforcé l’univers de marque.",
+            "results": "Le site reflète désormais l’essence de la marque, créant un lien émotionnel plus fort avec les visiteurs et soulignant son positionnement distinctif."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Application de Prompt IA",
+        "images": ["/assets/web-design-ai-application-development.png"],
+        "link": "https://ai-prompts-app-one.vercel.app/",
+        "description": "Un outil de génération de prompts IA open-source pour découvrir, créer et partager des prompts créatifs.",
+        "caseStudyDesc": "Ce projet vise à donner du pouvoir aux créateurs dans le domaine de l'IA. En construisant un outil moderne et open-source axé sur l'accessibilité et le design, nous avons transformé une idée en une plateforme collaborative et communautaire pour l'avenir de la créativité IA.",
+        "gallery": [
+          {
+            "url": "/assets/web-design-promptopia-project.png",
+            "challenges": "Il n'existait pas de plateforme visuellement engageante et facile à utiliser pour découvrir et partager des prompts IA, surtout pour un public moderne et créatif.",
+            "solutions": "Nous avons conçu et développé une application web open-source où les utilisateurs peuvent explorer, créer et partager des prompts IA facilement. L'interface met l'accent sur la simplicité, la communauté et la créativité, avec des outils intégrés pour gérer et présenter les prompts.",
+            "results": "Les utilisateurs ont désormais un espace centralisé et intuitif pour organiser, réutiliser et découvrir des prompts IA, gagnant du temps et stimulant une créativité plus constante."
+          }
+        ]
+      },
+         {
+        "id": 3,
         "title": "Refonte du site web pour une entreprise de planification d'événements et de location",
         "link": "https://eventsbylolar.com/",
-        "images": ["/assets/web-design-party-rental.png"],
+        "images": ["/assets/web-design-event-rental-planner.png"],
         "description": "Facilité pour les clients d'explorer les services et de réserver des locations en ligne.",
         "caseStudyDesc": "Grâce à une conception stratégique et un développement réfléchi, nous avons pu résoudre les principaux défis auxquels Events by Lorlar était confronté en matière d'engagement des clients et de présentation des services. En mettant en œuvre des expériences utilisateur intuitives, des vitrines de services claires et un contenu précieux, nous avons contribué à renforcer les interactions avec les clients.",
         "gallery": [
@@ -199,10 +243,26 @@
           }
         ]
       },
-        {
-        "id": 2,
+      {
+        "id": 4,
+        "title": "Site Web de Portfolio pour un Développeur Logiciel",
+        "images": [ "/assets/web-design-ruth-ariyo-portfolio.png"],
+        "link": "https://ruth-portfolio-iota.vercel.app/",
+        "description": "Un site web professionnel et facile à naviguer qui met en valeur son travail, son expérience et ses écrits.",
+        "caseStudyDesc": "Ce projet a consisté à combler l'écart entre la profondeur technique et la narration visuelle. En repensant la manière dont les projets de portfolio sont présentés, nous avons créé une expérience plus inclusive, professionnelle et percutante qui communique mieux les compétences et la valeur du développeur.",
+        "gallery": [
+          {
+            "url": "/assets/web-design-ruth-portfolio-website-update.png",
+            "challenges": "Bien que chaque projet ait un README détaillé sur GitHub, le portfolio manquait de présentation visuelle, ce qui le rendait moins accessible aux visiteurs non techniques et aux collaborateurs potentiels.",
+            "solutions": "Nous avons conçu et développé une section dédiée du portfolio qui transforme les projets GitHub en présentations attrayantes, complètes avec des visuels, des résumés concis et les principales technologies utilisées, adaptées à la fois pour un public technique et non technique.",
+            "results": "Le portfolio fournit désormais un aperçu clair et visuellement riche du travail du développeur, permettant aux visiteurs de saisir rapidement l'étendue, l'impact et la pertinence du projet en un coup d'œil."
+          }
+        ]
+      },
+      {
+        "id": 5,
         "title": "Site Web Personnalisé pour une Entreprise de Pâtisserie",
-        "images": ["/assets/web-design-bakery-lawlah-sweets.png"],
+        "images": ["/assets/web-design-development-bakery-business.png"],
         "link": "https://lawlahsweets.vercel.app/",
         "description": "Un site web chaleureux et accueillant qui met en valeur leur travail et permet aux clients de passer des commandes de gâteaux personnalisés en toute simplicité.",
         "caseStudyDesc": "Nous nous sommes concentrés sur la simplification du parcours client — de l'inspiration visuelle à la commande personnalisée. Le résultat est un site magnifique et fonctionnel qui non seulement met en valeur leurs produits mais simplifie également le processus de commande, aidant l'entreprise à fonctionner plus efficacement tout en offrant une expérience premium.",
@@ -218,38 +278,6 @@
             "challenges": "Le processus de commande était manuel et inefficace, nécessitant une communication répétée pour capturer correctement les détails de la commande.",
             "solutions": "Nous avons développé un formulaire de commande personnalisé, complet et facile à utiliser, avec des champs pour la taille, la saveur, les préférences de design et les demandes spéciales, le tout géré en ligne.",
             "results": "L'entreprise reçoit désormais des commandes complètes et précises tout en économisant du temps sur l'administration, réduisant les erreurs et améliorant la satisfaction des clients."
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Application de Prompt IA",
-        "images": ["/assets/web-design-ai-application.png"],
-        "link": "https://ai-prompts-app-one.vercel.app/",
-        "description": "Un outil de génération de prompts IA open-source pour découvrir, créer et partager des prompts créatifs.",
-        "caseStudyDesc": "Ce projet vise à donner du pouvoir aux créateurs dans le domaine de l'IA. En construisant un outil moderne et open-source axé sur l'accessibilité et le design, nous avons transformé une idée en une plateforme collaborative et communautaire pour l'avenir de la créativité IA.",
-        "gallery": [
-          {
-            "url": "/assets/web-design-promptopia-project.png",
-            "challenges": "Il n'existait pas de plateforme visuellement engageante et facile à utiliser pour découvrir et partager des prompts IA, surtout pour un public moderne et créatif.",
-            "solutions": "Nous avons conçu et développé une application web open-source où les utilisateurs peuvent explorer, créer et partager des prompts IA facilement. L'interface met l'accent sur la simplicité, la communauté et la créativité, avec des outils intégrés pour gérer et présenter les prompts.",
-            "results": "Les utilisateurs ont désormais un espace centralisé et intuitif pour organiser, réutiliser et découvrir des prompts IA, gagnant du temps et stimulant une créativité plus constante."
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Site Web de Portfolio pour un Développeur Logiciel",
-        "images": [ "/assets/web-design-ruth-ariyo-portfolio.png"],
-        "link": "https://ruth-portfolio-iota.vercel.app/",
-        "description": "Un site web professionnel et facile à naviguer qui met en valeur son travail, son expérience et ses écrits.",
-        "caseStudyDesc": "Ce projet a consisté à combler l'écart entre la profondeur technique et la narration visuelle. En repensant la manière dont les projets de portfolio sont présentés, nous avons créé une expérience plus inclusive, professionnelle et percutante qui communique mieux les compétences et la valeur du développeur.",
-        "gallery": [
-          {
-            "url": "/assets/web-design-ruth-portfolio-website-update.png",
-            "challenges": "Bien que chaque projet ait un README détaillé sur GitHub, le portfolio manquait de présentation visuelle, ce qui le rendait moins accessible aux visiteurs non techniques et aux collaborateurs potentiels.",
-            "solutions": "Nous avons conçu et développé une section dédiée du portfolio qui transforme les projets GitHub en présentations attrayantes, complètes avec des visuels, des résumés concis et les principales technologies utilisées, adaptées à la fois pour un public technique et non technique.",
-            "results": "Le portfolio fournit désormais un aperçu clair et visuellement riche du travail du développeur, permettant aux visiteurs de saisir rapidement l'étendue, l'impact et la pertinence du projet en un coup d'œil."
           }
         ]
       }

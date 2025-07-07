@@ -172,7 +172,7 @@
       ]
     },
     "portfolio": [
-      {
+         {
         "id": 1,
         "title": "Website Design for an Event Planning & Party Rental Company",
         "link": "https://eventsbylolar.com/",
@@ -200,33 +200,10 @@
           }
         ]
       },
-        {
-        "id": 2,
-        "title": "Custom Website Design for a Bakery Business",
-        "link": "https://lawlahsweets.vercel.app/",
-        "description": "A warm, inviting website design that highlights their work and lets customers place custom cake orders with ease.",
-        "images": ["/assets/web-design-bakery-lawlah-sweets.png"],
-        "caseStudyDesc": "We focused on streamlining the customer journey, from visual inspiration to custom orders. The result is a beautiful, functional website design that not only showcases their products but also simplifies the ordering process, helping the business run more efficiently while delivering a premium experience.",
-        "gallery": [
-          {
-            "url": "/assets/web-design-bakery-showcase-ss.png",
-            "challenges": "Customers couldn’t easily explore the full range of cakes and pastries, making it difficult to decide or place orders.",
-            "solutions": "We created a web design that has a visually rich menu that elegantly showcases all available baked goods, organized for easy browsing.",
-            "results": "The enhanced product display enables customers to browse and place orders effortlessly, creating a smoother, more enjoyable user experience."
-          },
-          {
-            "url": "/assets/web-design-bakery-order-form.png",
-            "challenges": "The ordering process was manual and inefficient, requiring back-and-forth communication to capture order details accurately.",
-            "solutions": "We developed a comprehensive, easy-to-use custom order form with fields for size, flavor, design preferences, and special requests, all handled on the website.",
-            "results": "The business now receives complete, accurate orders from the website while saving time on admin, reducing errors, and improving customer satisfaction."
-          }
-        ]
-      },
-
       {
-        "id": 3,
+        "id": 2,
         "title": "Web design solution for AI prompt application.",
-        "images": ["/assets/web-design-ai-application.png"],
+        "images": ["/assets/web-design-ai-application-development.png"],
         "link": "https://ai-prompts-app-one.vercel.app/",
         "description": "An open-source AI prompting tool for the modern world to discover, create, and share creative prompts.",
         "caseStudyDesc": "This project empowers creators in the AI space through modern web design and development. By building an accessible, open-source tool focused on intuitive design, we helped transform an idea into a collaborative, community-driven platform shaping the future of AI creativity.",
@@ -239,6 +216,35 @@
           }
         ]
       },
+      {
+        "id": 3,
+        "title": "Web Design for a Luxury Fashion Brand",
+        "description": "A stylish and user-friendly fashion website built to attract customers, showcase products, and increase online sales.",
+        "images": ["/assets/web-design-luxury-fashion-ecommerce-store.png"],
+        "link": "https://funmikelondon.com",
+        "caseStudyDesc": "This web design project focused on helping a luxury fashion brand create a strong online presence that feels premium and easy to use. The goal was to turn visitors into customers by making the shopping experience simple, elegant, and trustworthy.",
+          "gallery": [
+          {
+            "url": "/assets/web-design-fashion-shop.png",
+            "challenges": "The brand needed a website that looked high-end and professional, but also worked smoothly for everyday users who just wanted to shop with ease and confidence.",
+            "solutions": "We designed a clean and modern fashion website that’s mobile-friendly, easy to navigate, and built with sales in mind. From the product pages to the checkout process, everything was created to keep visitors engaged and guide them smoothly toward completing a purchase.",
+            "results": "The new website offers a stylish and intuitive shopping experience that appeals to both fashion-forward and practical users."
+          },
+          {
+            "url": "/assets/web-design-trust-section.png",
+            "challenges": "The client needed to build trust with first-time visitors, especially since it’s a new premium brand selling high-value fashion pieces online.",
+            "solutions": "We added trust-building sections such as clear shipping and return information, and visible contact details. These elements were strategically placed on the home page to reduce hesitation and increase buyer confidence.",
+            "results": "Shoppers now feel more secure when browsing and buying, leading to stronger credibility and improved conversion rates."
+          },
+          {
+            "url": "/assets/web-design-luxury-fashion-brand-about.png",
+            "challenges": "The brand lacked a digital space that properly communicated its unique story, values, and visual identity.",
+            "solutions": "We crafted a visually compelling About page and integrated storytelling elements across the homepage. High-quality imagery, bold typography, and consistent branding helped reinforce the luxury feel.",
+            "results": "The website now reflects the essence of the brand, creating a deeper connection with visitors and helping them understand what sets it apart."
+          }
+        ]
+      },
+
       {
         "id": 4,
         "title": "Portfolio Website Design for a Software Developer",
@@ -254,7 +260,31 @@
             "results": "The improved web design provides a clear, visually rich portfolio overview, enabling visitors to quickly grasp the developer’s project scope, impact, and relevance at a glance."
           }
         ]
+      },
+        {
+        "id": 5,
+        "title": "Custom Website Design for a Bakery Business",
+        "link": "https://lawlahsweets.vercel.app/",
+        "description": "A warm, inviting website design that highlights their work and lets customers place custom cake orders with ease.",
+        "images": ["/assets/web-design-development-bakery-business.png"],
+        "caseStudyDesc": "We focused on streamlining the customer journey, from visual inspiration to custom orders. The result is a beautiful, functional website design that not only showcases their products but also simplifies the ordering process, helping the business run more efficiently while delivering a premium experience.",
+        "gallery": [
+          {
+            "url": "/assets/web-design-bakery-showcase-ss.png",
+            "challenges": "Customers couldn’t easily explore the full range of cakes and pastries, making it difficult to decide or place orders.",
+            "solutions": "We created a web design that has a visually rich menu that elegantly showcases all available baked goods, organized for easy browsing.",
+            "results": "The enhanced product display enables customers to browse and place orders effortlessly, creating a smoother, more enjoyable user experience."
+          },
+          {
+            "url": "/assets/web-design-bakery-order-form.png",
+            "challenges": "The ordering process was manual and inefficient, requiring back-and-forth communication to capture order details accurately.",
+            "solutions": "We developed a comprehensive, easy-to-use custom order form with fields for size, flavor, design preferences, and special requests, all handled on the website.",
+            "results": "The business now receives complete, accurate orders from the website while saving time on admin, reducing errors, and improving customer satisfaction."
+          }
+        ]
       }
+
+   
     ],
   "faqTitle": "Frequently Asked Questions",
   "faqIntro": "Answers to common questions our clients have about our web design services.",
