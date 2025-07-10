@@ -48,7 +48,7 @@ const navLinks = [
   { id: 'about', label: t('aboutUs') },
   { id: 'work', label: t('ourWorks') },
   { id: 'contactUs', label: t('contactUs') },
-  { id: 'blog', label: 'Blog', external: true, href: '/blog' }, // External route
+  // { id: 'blog', label: 'Blog', external: true, href: '/blog' }, // External route
 ];
 
   
