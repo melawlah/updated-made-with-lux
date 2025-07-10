@@ -117,9 +117,11 @@
       },
       "subtitle": "Reach out today and let’s explore how we can bring your ideas to life.",
       "cta": "Book a Free Consultation",
-      "copyright": "Made with Lux. All rights reserved."
+      "copyright": "Made with Lux. All rights reserved.",
+       "locationsHeading": "Web Design Services In:"
     },
-    "howItWorksTagline": "Our Process",
+   
+    "howItWorksTagline": "Our Web Design Process",
     "howItWorksTitle": "How It Works",
     "howItWorksDesc": "From consultation to launch, here's how we bring your website design to life.",
     "step1Title": "Free Strategy Session",
@@ -141,9 +143,6 @@
     "servicesSection": {
       "heading": "What We Do",
       "para": "Web design and development that blends strategy, creativity, and performance.",
-      "ctaTitle": "Ready to work together?",
-      "ctaSubtitle": "Let’s bring your vision to life with strategic design and seamless execution.",
-      "ctaButton": "Book a Free Consultation",
       "list": [
         {
           "title": "Corporate Website Design",
@@ -317,7 +316,500 @@
       "question": "Can you help with branding or redesigning our current website?",
       "answer": "Yes. Whether you're starting from scratch or rebranding, we offer branding and web design services that will align with your brand and speak to your ideal audience."
     }
+  ],
+  
+  
+  "seo": {
+    "toronto": {
+      "title": "Web Design Toronto | Made With Lux",
+      "description": "Custom website design for businesses in Toronto. Book a free consultation."
+    },
+    "kitchener": {
+      "title": "Web Design Kitchener | Made With Lux",
+      "description": "Custom website design for businesses in Kitchener. Book a free consultation."
+    },
+    "vancouver": {
+      "title": "Web Design Vancouver | Made With Lux",
+      "description": "Custom website design for businesses in Vancouver. Book a free consultation."
+    },
+    "montreal": {
+      "title": "Web Design Montreal | Made With Lux",
+      "description": "Custom website design for businesses in Montreal. Book a free consultation."
+    },
+    "Calgary": {
+      "title": "Web Design Calgary | Made With Lux",
+      "description": "Custom website design for businesses in Calgary. Book a free consultation."
+    },
+    "ottawa": {
+      "title": "Web Design Ottawa | Made With Lux",
+      "description": "Custom website design for businesses in Ottawa. Book a free consultation."
+    },
+    "edmonton": {
+      "title": "Web Design Edmonton | Made With Lux",
+      "description": "Custom website design for businesses in Edmonton. Book a free consultation."
+    },
+    "halifax": {
+      "title": "Web Design Halifax | Made With Lux",
+      "description": "Custom website design for businesses in Halifax. Book a free consultation."
+    }
+  },
+  "cityPage": {
+    "toronto": {
+      "heroTitle": "Web Design in Toronto",
+      "heroSubtitle": "Helping Toronto businesses grow with high-converting websites.",
+      "aboutHeading": "Why Toronto Businesses Choose Us",
+      "about": {
+      "heading": "What We Do for Toronto Businesses",
+      "para": "We provide web solutions tailored to Toronto’s diverse and fast-paced market.",
+    "services": [
+      {
+        "title": "Real Estate Web Development in Toronto",
+        "description": "Custom website design for Toronto real estate agents, brokers, and agencies featuring MLS integration, lead capture, and high-speed performance."
+      },
+      {
+        "title": "Toronto E-commerce Website Design",
+        "description": "We build conversion-focused e-commerce websites designed for businesses in Toronto and all over Canada optimized for Shopify, WooCommerce, and mobile-first shopping experiences."
+      },
+      {
+        "title": "Bilingual & Multilingual Website Design",
+        "description": "Reach Toronto’s diverse audience with professionally designed websites in English, French, and more fully optimized for accessibility."
+      },
+      {
+        "title": "Toronto SEO Web Design Services",
+        "description": "Get found on Google with search engine optimized web design, we target competitive Toronto keywords to increase your visibility and inbound leads."
+      },
+      {
+        "title": "Website Maintenance & Ongoing Support",
+        "description": "We offer reliable, fast maintenance for businesses based in Toronto and all over Canada. This includes updates, backups, uptime monitoring, and security patches."
+      },
+      {
+        "title": "Custom Web Development Features",
+        "description": "Need something unique? From booking systems to dashboards, we build custom website features that help your Toronto business grow and scale."
+      }
   ]
-
-
+},
+  "faq": [
+  {
+    "question": "How much does it cost to design a website for my Toronto business?",
+    "answer": "Every business is unique, and so are their web design needs. We don’t offer one-size-fits-all pricing, instead, we provide a free consultation to understand your goals, project scope, and budget. Then, we’ll give you a clear, tailored quote that fits your business needs."
+  },
+  {
+    "question": "How long will it take to build my website?",
+    "answer": "Most websites take 3 to 6 weeks depending on the scope, number of pages, and revisions. We offer faster timelines for urgent projects and will give you a clear project schedule from day one."
+  },
+  {
+    "question": "Can you help optimize my website for Toronto local SEO?",
+    "answer": "Absolutely. We specialize in local SEO for Toronto businesses, ensuring your website ranks for the right local keywords and appears in Google Maps and local search results."
+  },
+  {
+    "question": "What platforms do you use to build websites?",
+    "answer": "We build websites using WordPress, Webflow, Shopify, and custom solutions depending on your business goals, scalability, and budget."
+  },
+  {
+    "question": "Do you offer ongoing website maintenance and support?",
+    "answer": "Yes. We offer maintenance plans for businesses in Toronto and Canada that include regular updates, backups, performance checks, and security monitoring so you can focus on running your business."
+  },
+  {
+    "question": "Can I update the website myself after it’s launched?",
+    "answer": "Yes. We build user-friendly websites and provide training or documentation so you can make updates easily. We’re also here to help if you’d prefer us to manage updates for you."
+  },
+  {
+    "question": "Do you work with startups and small businesses?",
+    "answer": "Yes, we love working with Toronto startups and small business owners. We offer flexible solutions that scale as your business grows."
+  },
+  {
+    "question": "Do you offer bilingual or multilingual websites for Toronto’s diverse audience?",
+    "answer": "Yes, we create bilingual and multilingual websites in English, French, and other languages to help you reach more of Toronto’s multicultural population."
   }
+]
+}
+},
+ "kitchener": {
+    "heroTitle": "Professional Web Design in Kitchener",
+    "heroSubtitle": "Helping Kitchener businesses grow with modern, high-performing websites.",
+    "about": {
+      "heading": "Custom Website Design for Kitchener Businesses",
+      "para": "We design strategic websites that help Kitchener businesses connect with their customers and clients.",
+      "services": [
+        {
+          "title": "Kitchener Business Website Design",
+          "description": "We create websites that build trust and drive leads for Kitchener-based service providers, trades, consultants, and local businesses."
+        },
+        {
+          "title": "E-Commerce Website Development",
+          "description": "Launch or grow your online store with our Shopify and WooCommerce web design solutions tailored for your ideal audience."
+        },
+        {
+          "title": "Local SEO Optimization for Kitchener",
+          "description": "We optimize your website for Kitchener-specific keywords and map listings so your business shows up when locals search online."
+        },
+        {
+          "title": "Mobile-First & Fast-Loading Website Design",
+          "description": "Kitchener customers are on the go, we build responsive, lightning-fast websites that work on any device."
+        },
+        {
+          "title": "Website Redesign & Modernization",
+          "description": "Give your outdated site a fresh new look that reflects your professionalism and helps grow your business in Kitchener and beyond."
+        },
+        {
+          "title": "Bilingual & Accessible Website Design",
+          "description": "We can build your website in both English and French, ensuring it’s inclusive, accessible, and SEO-friendly for Kitchener’s diverse population."
+        }
+      ]
+    },
+      "faq": [
+        {
+          "question": "Do you offer website design specifically for Kitchener businesses?",
+          "answer": "Yes, we specialize in building websites tailored to the needs of businesses in Kitchener and all over Canada."
+        },
+        {
+          "question": "Can you help improve my Google ranking in Kitchener?",
+          "answer": "Absolutely. Our websites are built with local SEO in mind, helping you appear in Kitchener search results and Google Maps."
+        },
+        {
+          "question": "What types of Kitchener businesses do you work with?",
+          "answer": "We work with trades, service providers, consultants, retail shops, and other Kitchener-based businesses looking to grow online."
+        },
+        {
+          "question": "How long does it take to build a custom website?",
+          "answer": "Most Kitchener website design projects take 4–6 weeks depending on complexity. We’ll work closely with you to stay on budget and timeline."
+        },
+        {
+          "question": "How much does web design cost?",
+          "answer": "Every business is unique, and so are their web design needs. We don’t offer one-size-fits-all pricing, instead, we provide a free consultation to understand your goals, project scope, and budget. Then, we’ll give you a clear, tailored quote that fits your business needs."
+        }
+      ]
+    },
+
+"vancouver": {
+  "heroTitle": "Custom Web Design in Vancouver",
+  "heroSubtitle": "Helping Vancouver businesses grow with conversion-driven websites.",
+  "about": {
+    "heading": "What We Do for Vancouver Businesses",
+    "para": "We build websites tailored to the unique, innovative spirit of Vancouver’s business landscape.",
+    "services": [
+      {
+        "title": "Vancouver E-commerce Website Design",
+        "description": "We design high-converting e-commerce websites for Vancouver businesses optimized for Shopify, WooCommerce, and mobile-first shopping."
+      },
+      {
+        "title": "Real Estate Web Development in Vancouver",
+        "description": "Custom website design for Vancouver real estate professionals featuring MLS integration, fast load times, and lead capture."
+      },
+      {
+        "title": "Multilingual Website Design for Vancouver",
+        "description": "Reach Vancouver’s diverse population with multilingual websites fully optimized for SEO and accessibility."
+      },
+      {
+        "title": "Vancouver SEO Web Design Services",
+        "description": "Rank higher in Vancouver search results with SEO-optimized web design tailored to your business goals."
+      },
+      {
+        "title": "Website Maintenance & Support in Vancouver",
+        "description": "Ongoing website maintenance, backups, and updates for Vancouver-based businesses, reliable and fast."
+      },
+      {
+        "title": "Custom Web Features for Vancouver Businesses",
+        "description": "Need booking systems, dashboards, or integrations? We build tailored solutions that help your Vancouver business scale."
+      }
+    ]
+  },
+    "faq": [
+      {
+        "question": "Do you provide SEO services for Vancouver businesses?",
+        "answer": "Yes, we specialize in local SEO to help Vancouver businesses rank higher and attract local clients."
+      },
+      {
+        "question": "Can you build bilingual websites for Vancouver’s diverse population?",
+        "answer": "Absolutely. We create bilingual or multilingual sites tailored for Vancouver’s multicultural audience."
+      },
+      {
+        "question": "Which platforms do you build websites on?",
+        "answer": "We use WordPress, Shopify, Webflow and other leading platforms depending on your goals."
+      },
+      {
+        "question": "Do you offer support after the website is launched?",
+        "answer": "Yes, we provide ongoing maintenance and support to keep your Vancouver website secure and up to date."
+      },
+      {
+        "question": "How much does a website cost for a business in Vancouver?",
+        "answer": "Every business is unique, so we tailor pricing based on your specific goals, features, and timeline. During your free consultation, we’ll provide a clear and personalized quote that fits your needs and budget."
+      },
+      {
+        "question": "How long does it take to design and launch a website?",
+        "answer": "Most web design projects are completed in 4–6 weeks depending on the complexity, content, and feedback cycles."
+      }
+    ]
+},
+"montreal": {
+  "heroTitle": "Custom Web Design in Montreal",
+  "heroSubtitle": "Helping Montreal businesses grow with high-converting, bilingual websites.",
+  "about": {
+    "heading": "Why Montreal Businesses Choose Us",
+    "para": "We create custom, bilingual websites designed to engage Montreal’s diverse market and boost your online presence.",
+  "services": [
+    {
+      "title": "Bilingual Website Design in Montreal",
+      "description": "Professionally designed websites in English and French to reach Montreal’s multicultural audience."
+    },
+    {
+      "title": "E-commerce Web Design for Montreal Businesses",
+      "description": "Optimized e-commerce platforms tailored for Montreal's vibrant retail market."
+    },
+    {
+      "title": "SEO Services for Montreal",
+      "description": "Local SEO strategies focused on Montreal keywords to increase visibility and leads."
+    },
+    {
+      "title": "Custom Web Development",
+      "description": "Custom solutions including booking systems, dashboards, and multilingual features."
+    },
+    {
+      "title": "Website Maintenance & Support",
+      "description": "Reliable ongoing support and maintenance tailored for Montreal businesses."
+    },
+    {
+    "title": "Real Estate Website Design in Montreal",
+    "description": "We build fast, modern websites for Montreal real estate agents and agencies complete with MLS integration and lead generation tools."
+  }
+  ]
+},
+  "faq": [
+    {
+      "question": "Do you create bilingual websites for Montreal businesses?",
+      "answer": "Yes, we specialize in building bilingual (English and French) websites to help you connect with Montreal’s diverse audience."
+    },
+    {
+      "question": "How can you help my Montreal business rank higher on Google?",
+      "answer": "We focus on local SEO targeting Montreal-specific keywords to increase your website’s visibility and attract more customers."
+    },
+    {
+      "question": "What e-commerce platforms do you recommend for Montreal retailers?",
+      "answer": "We work with Shopify, WooCommerce, and other platforms, customizing them to fit Montreal’s market needs."
+    },
+    {
+      "question": "Can you maintain and update my website regularly?",
+      "answer": "Absolutely. We offer ongoing maintenance and support to keep your Montreal business website running smoothly."
+    }
+  ]
+},
+  "calgary": {
+    "heroTitle": "Web Design Services in Calgary",
+    "heroSubtitle": "Helping Calgary businesses thrive with high-converting, modern websites.",
+    "aboutHeading": "Why Calgary Businesses Choose Us",
+    "about": {
+      "heading": "Tailored Web Solutions for Calgary Businesses",
+      "para": "We design fast, SEO-friendly websites built specifically for Calgary’s competitive business environment.",
+      "services": [
+        {
+          "title": "Local SEO Web Design for Calgary",
+          "description": "We optimize your site for Calgary-based searches so local customers can find your business easily."
+        },
+        {
+          "title": "E-commerce Website Design in Calgary",
+          "description": "We develop fast, mobile-first online stores tailored for Calgary’s growing e-commerce market."
+        },
+        {
+          "title": "Custom Web Development Solutions",
+          "description": "From appointment booking to client dashboards, we create custom features that help Calgary businesses scale."
+        },
+        {
+          "title": "Real Estate Web Design in Calgary",
+          "description": "We build feature-rich websites for Calgary real estate professionals with MLS integration and lead generation tools."
+        },
+        {
+          "title": "Bilingual Website Design (English/French)",
+          "description": "Reach Calgary’s diverse population with bilingual websites optimized for accessibility and SEO."
+        },
+        {
+          "title": "Website Maintenance & Support in Calgary",
+          "description": "We provide reliable maintenance, security updates, and performance monitoring for Calgary-based websites."
+        }
+      ]
+    },
+      "faq": [
+        {
+          "question": "Do you offer web design for small businesses in Calgary?",
+          "answer": "Absolutely. We specialize in designing affordable, results-driven websites for Calgary-based startups and small businesses."
+        },
+        {
+          "question": "Can you help improve my site’s local SEO in Calgary?",
+          "answer": "Yes. We use Calgary-specific keywords and Google best practices to increase your local visibility and search rankings."
+        },
+        {
+          "question": "What platforms do you build websites on?",
+          "answer": "We design using WordPress, Shopify, and Webflow, depending on your needs, budget, and scalability goals."
+        },
+        {
+          "question": "Do you offer bilingual websites for Calgary businesses?",
+          "answer": "Yes. We can build English/French websites that serve Calgary’s bilingual audience effectively while being SEO-friendly."
+        }
+      ]
+    },
+  "ottawa": {
+    "title": "Web Design Ottawa | Made With Lux",
+    "description": "Custom websites for businesses in Ottawa. Book a free consultation.",
+    "heroTitle": "Professional Web Design in Ottawa",
+    "heroSubtitle": "Helping Ottawa businesses grow with high-performance, conversion-driven websites.",
+    "aboutHeading": "Why Ottawa Businesses Work With Us",
+    "about": {
+      "heading": "Custom Website Solutions for Ottawa’s Market",
+      "para": "We build responsive, SEO-optimized websites designed for Ottawa's diverse economy and competitive online space.",
+      "services": [
+        {
+          "title": "Local SEO-Focused Web Design for Ottawa",
+          "description": "We help Ottawa businesses rank higher with websites optimized for local search terms and Google Maps visibility."
+        },
+        {
+          "title": "E-commerce Website Design in Ottawa",
+          "description": "Sell more online with e-commerce websites tailored for Ottawa’s fast-growing digital retail space."
+        },
+        {
+          "title": "Custom Web Applications for Ottawa Businesses",
+          "description": "We build powerful, secure custom features — from scheduling to dashboards — that fit your Ottawa business needs."
+        },
+        {
+          "title": "Real Estate Web Design in Ottawa",
+          "description": "We develop modern websites for Ottawa realtors with MLS integration and lead capture capabilities."
+        },
+        {
+          "title": "Bilingual Website Design (English/French)",
+          "description": "We build bilingual websites for Ottawa’s government, corporate, and public-facing sectors to ensure accessibility and reach."
+        },
+        {
+          "title": "Website Maintenance & Support in Ottawa",
+          "description": "Keep your Ottawa website running smoothly with proactive maintenance, security updates, and content support."
+        }
+      ]
+    },
+      "faq": [
+        {
+          "question": "Do you build websites for small businesses in Ottawa?",
+          "answer": "Yes. We create affordable, high-quality websites for Ottawa’s small businesses and startups looking to grow online."
+        },
+        {
+          "question": "Can you help improve my local SEO in Ottawa?",
+          "answer": "Definitely. We use Ottawa-specific keywords and proven SEO strategies to help your site rank better locally."
+        },
+        {
+          "question": "Do you support both English and French for Ottawa websites?",
+          "answer": "Absolutely. We build bilingual websites that reflect Ottawa’s official language requirements and accessibility standards."
+        },
+        {
+          "question": "What platforms do you use for building websites?",
+          "answer": "We work with WordPress, Shopify, and Webflow to provide flexibility based on your business needs and goals."
+        }
+      ]
+    },
+  "edmonton": {
+    "title": "Web Design Edmonton | Made With Lux",
+    "description": "Custom websites for businesses in Edmonton. Book a free consultation.",
+    "heroTitle": "Custom Web Design in Edmonton",
+    "heroSubtitle": "Helping Edmonton businesses grow with high-performance, SEO-driven websites.",
+    "aboutHeading": "Why Edmonton Businesses Choose Us",
+    "about": {
+      "heading": "Web Solutions Built for Edmonton’s Growing Market",
+      "para": "We build responsive, search-optimized websites tailored for Edmonton’s innovative businesses and local economy.",
+      "services": [
+        {
+          "title": "SEO-Focused Web Design for Edmonton",
+          "description": "We help Edmonton businesses rank locally by building fast, optimized websites that drive search visibility and leads."
+        },
+        {
+          "title": "E-commerce Website Design in Edmonton",
+          "description": "We create powerful e-commerce websites for Edmonton retailers that convert — built on Shopify, WooCommerce, or Webflow."
+        },
+        {
+          "title": "Real Estate Website Development in Edmonton",
+          "description": "We design real estate websites with MLS/IDX integration, optimized for lead generation and fast performance."
+        },
+        {
+          "title": "Custom Web Applications & Features",
+          "description": "Need a custom booking system or dashboard? We build scalable web features that support business growth in Edmonton."
+        },
+        {
+          "title": "Multilingual Website Design for Edmonton",
+          "description": "We build bilingual and multilingual websites to help your Edmonton business connect with diverse local audiences."
+        },
+        {
+          "title": "Website Maintenance & Ongoing Support",
+          "description": "We keep your site secure, updated, and high-performing with regular maintenance and technical support in Edmonton."
+        }
+      ]
+    },
+      "faq": [
+        {
+          "question": "Do you offer web design for Edmonton startups?",
+          "answer": "Yes. We work with startups and small businesses in Edmonton, creating websites that are fast, affordable, and results-driven."
+        },
+        {
+          "question": "Can you improve my local SEO in Edmonton?",
+          "answer": "Absolutely. We specialize in Edmonton SEO and optimize your website for visibility on Google in your local area."
+        },
+        {
+          "question": "Do you support French and multilingual websites?",
+          "answer": "Yes, we create bilingual and multilingual websites in English, French, and more — ideal for Edmonton’s diverse communities."
+        },
+        {
+          "question": "What platforms do you use for website development?",
+          "answer": "We work with WordPress, Shopify, Webflow, and custom stacks — based on what works best for your Edmonton business."
+        }
+      ]
+    },
+  "halifax": {
+    "title": "Web Design Halifax | Made With Lux",
+    "description": "Custom websites for businesses in Halifax. Book a free consultation.",
+    "heroTitle": "Custom Web Design in Halifax",
+    "heroSubtitle": "Helping Halifax businesses thrive with conversion-driven, SEO-optimized websites.",
+    "aboutHeading": "Why Halifax Businesses Choose Us",
+    "about": {
+      "heading": "Digital Solutions Tailored for Halifax’s Local Market",
+      "para": "We build fast, mobile-optimized websites that reflect the unique spirit of Halifax and help local businesses grow online.",
+      "services": [
+        {
+          "title": "Halifax SEO Web Design",
+          "description": "We create websites designed to rank on Google for Halifax-focused searches, bringing you more visibility and leads."
+        },
+        {
+          "title": "E-commerce Website Design in Halifax",
+          "description": "Whether you’re selling crafts or services, we build e-commerce sites for Halifax businesses that convert."
+        },
+        {
+          "title": "Real Estate Website Development in Halifax",
+          "description": "Real estate websites with lead capture, MLS integration, and custom branding for Halifax agents and agencies."
+        },
+        {
+          "title": "Multilingual Website Design for Halifax",
+          "description": "Connect with both English and French-speaking customers through bilingual websites built for accessibility and SEO."
+        },
+        {
+          "title": "Website Maintenance & Support in Halifax",
+          "description": "From updates to backups, we handle ongoing website care for Halifax businesses so you can focus on what you do best."
+        },
+        {
+          "title": "Custom Web Features for Halifax Entrepreneurs",
+          "description": "We build booking tools, customer dashboards, and more — tailored to your Halifax business goals."
+        }
+      ]
+    },
+      "faq": [
+        {
+          "question": "Can you help my Halifax business rank better on Google?",
+          "answer": "Yes. Our SEO-first design ensures your Halifax business ranks well for local keywords and brings in more leads."
+        },
+        {
+          "question": "Do you design websites for small businesses in Halifax?",
+          "answer": "Absolutely. We work with small and medium-sized businesses in Halifax to create affordable and scalable websites."
+        },
+        {
+          "question": "Can my website be bilingual (English and French)?",
+          "answer": "Yes, we build bilingual and multilingual websites so your business can connect with Halifax’s diverse audience."
+        },
+        {
+          "question": "Do you offer support after launching the website?",
+          "answer": "We do. We provide ongoing maintenance, performance monitoring, and technical support for Halifax clients."
+        }
+      ]
+    }
+
+}

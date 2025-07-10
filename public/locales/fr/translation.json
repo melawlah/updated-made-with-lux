@@ -116,8 +116,10 @@
       },
       "subtitle": "Contactez-nous dès aujourd'hui et explorons comment concrétiser vos idées.",
       "cta": "Contactez-nous",
-      "copyright": "Made with Lux. Tous droits réservés."
+      "copyright": "Made with Lux. Tous droits réservés.",
+      "locationsHeading": "Nos services de création de sites web à"
     },
+    
     "howItWorksTagline": "Notre Processus",
     "howItWorksTitle": "Comment Ça Marche",
     "howItWorksDesc": "De la consultation au lancement, voici comment nous donnons vie à votre site.",
@@ -173,53 +175,9 @@
     "portfolio": [
       {
         "id": 1,
-        "title": "Conception de Site Web pour une Marque de Mode Haut de Gamme",
-        "description": "Une expérience d’achat à la fois élégante et intuitive, conçue pour une clientèle mode contemporaine.",
-        "images": ["/assets/web-design-luxury-fashion-business-e-commerce.png"],
-        "link": "https://funmikelondon.com",
-        "caseStudyDesc":  "Ce projet e-commerce a été conçu pour refléter le caractère haut de gamme de la marque, avec un fort accent sur l’identité visuelle, la création de confiance et la conversion. De la navigation intuitive aux sections de contenu stratégiques, le site permet à la marque de faire forte impression et de convertir efficacement ses visiteurs.",
-        "gallery": [
-          {
-            "url": "/assets/web-design-fashion-shop.png",
-            "challenges": "La marque avait besoin d’un site web à la fois haut de gamme et fonctionnel, capable de séduire une clientèle exigeante tout en restant simple à utiliser.",
-            "solutions": "Nous avons conçu un site e-commerce épuré, moderne et responsive. La navigation est fluide et le parcours d’achat optimisé, afin d’accompagner naturellement l’utilisateur vers la finalisation de sa commande.",
-            "results":  "Le nouveau site offre une expérience d’achat intuitive et élégante, qui répond aux attentes d’une clientèle à la fois mode et pragmatique."
-          },
-          {
-            "url": "/assets/web-design-trust-section.png",
-            "challenges":  "La marque, encore jeune, devait instaurer un climat de confiance auprès des nouveaux visiteurs avant de pouvoir vendre ses pièces premium.",
-            "solutions": "Nous avons intégré des éléments clés de réassurance comme des témoignages clients, des informations claires sur la livraison et les retours, ainsi que des coordonnées visibles. Ces blocs ont été positionnés stratégiquement sur les pages produit et panier.",
-            "results": "Les visiteurs se sentent désormais plus en confiance pour finaliser leur achat, renforçant ainsi la crédibilité de la marque et favorisant la conversion."
-          },
-          {
-            "url": "/assets/web-design-luxury-fashion-brand-about.png",
-            "challenges": "La marque ne disposait pas encore d’un espace digital capable de transmettre efficacement son histoire, ses valeurs et son identité visuelle.",
-            "solutions": "Nous avons créé une page À propos percutante et intégré des éléments de storytelling sur la page d’accueil. L’utilisation d’images de haute qualité, d’une typographie affirmée et d’une identité graphique cohérente a renforcé l’univers de marque.",
-            "results": "Le site reflète désormais l’essence de la marque, créant un lien émotionnel plus fort avec les visiteurs et soulignant son positionnement distinctif."
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Application de Prompt IA",
-        "images": ["/assets/web-design-ai-application-development.png"],
-        "link": "https://ai-prompts-app-one.vercel.app/",
-        "description": "Un outil de génération de prompts IA open-source pour découvrir, créer et partager des prompts créatifs.",
-        "caseStudyDesc": "Ce projet vise à donner du pouvoir aux créateurs dans le domaine de l'IA. En construisant un outil moderne et open-source axé sur l'accessibilité et le design, nous avons transformé une idée en une plateforme collaborative et communautaire pour l'avenir de la créativité IA.",
-        "gallery": [
-          {
-            "url": "/assets/web-design-promptopia-project.png",
-            "challenges": "Il n'existait pas de plateforme visuellement engageante et facile à utiliser pour découvrir et partager des prompts IA, surtout pour un public moderne et créatif.",
-            "solutions": "Nous avons conçu et développé une application web open-source où les utilisateurs peuvent explorer, créer et partager des prompts IA facilement. L'interface met l'accent sur la simplicité, la communauté et la créativité, avec des outils intégrés pour gérer et présenter les prompts.",
-            "results": "Les utilisateurs ont désormais un espace centralisé et intuitif pour organiser, réutiliser et découvrir des prompts IA, gagnant du temps et stimulant une créativité plus constante."
-          }
-        ]
-      },
-         {
-        "id": 3,
         "title": "Refonte du site web pour une entreprise de planification d'événements et de location",
         "link": "https://eventsbylolar.com/",
-        "images": ["/assets/web-design-event-rental-planner.png"],
+        "images": ["/assets/web-design-party-rental.png"],
         "description": "Facilité pour les clients d'explorer les services et de réserver des locations en ligne.",
         "caseStudyDesc": "Grâce à une conception stratégique et un développement réfléchi, nous avons pu résoudre les principaux défis auxquels Events by Lorlar était confronté en matière d'engagement des clients et de présentation des services. En mettant en œuvre des expériences utilisateur intuitives, des vitrines de services claires et un contenu précieux, nous avons contribué à renforcer les interactions avec les clients.",
         "gallery": [
@@ -240,6 +198,50 @@
             "challenges": "Le site manquait d'une plateforme centrale pour partager du contenu précieux, comme des conseils, des tendances et des inspirations sur la planification d'événements, limitant ainsi les opportunités d'interagir avec les clients potentiels.",
             "solutions": "Nous avons ajouté une section de blog dynamique où l'équipe peut régulièrement partager des idées, des tendances et des événements, positionnant ainsi la marque en tant qu'autorité dans le secteur.",
             "results": "Le blog favorisera une confiance accrue avec les visiteurs, mettant en valeur l'expertise et facilitant la connexion avec les clients potentiels."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Application de Prompt IA",
+        "images": ["/assets/web-design-ai-application-development.png"],
+        "link": "https://ai-prompts-app-one.vercel.app/",
+        "description": "Un outil de génération de prompts IA open-source pour découvrir, créer et partager des prompts créatifs.",
+        "caseStudyDesc": "Ce projet vise à donner du pouvoir aux créateurs dans le domaine de l'IA. En construisant un outil moderne et open-source axé sur l'accessibilité et le design, nous avons transformé une idée en une plateforme collaborative et communautaire pour l'avenir de la créativité IA.",
+        "gallery": [
+          {
+            "url": "/assets/web-design-promptopia-project.png",
+            "challenges": "Il n'existait pas de plateforme visuellement engageante et facile à utiliser pour découvrir et partager des prompts IA, surtout pour un public moderne et créatif.",
+            "solutions": "Nous avons conçu et développé une application web open-source où les utilisateurs peuvent explorer, créer et partager des prompts IA facilement. L'interface met l'accent sur la simplicité, la communauté et la créativité, avec des outils intégrés pour gérer et présenter les prompts.",
+            "results": "Les utilisateurs ont désormais un espace centralisé et intuitif pour organiser, réutiliser et découvrir des prompts IA, gagnant du temps et stimulant une créativité plus constante."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Conception de Site Web pour une Marque de Mode Haut de Gamme",
+        "description": "Une expérience d’achat à la fois élégante et intuitive, conçue pour une clientèle mode contemporaine.",
+        "images": ["/assets/web-design-luxury-fashion-ecommerce-store.png"],
+        "link": "https://funmikelondon.com",
+        "caseStudyDesc":  "Ce projet e-commerce a été conçu pour refléter le caractère haut de gamme de la marque, avec un fort accent sur l’identité visuelle, la création de confiance et la conversion. De la navigation intuitive aux sections de contenu stratégiques, le site permet à la marque de faire forte impression et de convertir efficacement ses visiteurs.",
+        "gallery": [
+          {
+            "url": "/assets/web-design-fashion-shop.png",
+            "challenges": "La marque avait besoin d’un site web à la fois haut de gamme et fonctionnel, capable de séduire une clientèle exigeante tout en restant simple à utiliser.",
+            "solutions": "Nous avons conçu un site e-commerce épuré, moderne et responsive. La navigation est fluide et le parcours d’achat optimisé, afin d’accompagner naturellement l’utilisateur vers la finalisation de sa commande.",
+            "results":  "Le nouveau site offre une expérience d’achat intuitive et élégante, qui répond aux attentes d’une clientèle à la fois mode et pragmatique."
+          },
+          {
+            "url": "/assets/web-design-trust-section.png",
+            "challenges":  "La marque, encore jeune, devait instaurer un climat de confiance auprès des nouveaux visiteurs avant de pouvoir vendre ses pièces premium.",
+            "solutions": "Nous avons intégré des éléments clés de réassurance comme des témoignages clients, des informations claires sur la livraison et les retours, ainsi que des coordonnées visibles. Ces blocs ont été positionnés stratégiquement sur les pages produit et panier.",
+            "results": "Les visiteurs se sentent désormais plus en confiance pour finaliser leur achat, renforçant ainsi la crédibilité de la marque et favorisant la conversion."
+          },
+          {
+            "url": "/assets/web-design-luxury-fashion-brand-about.png",
+            "challenges": "La marque ne disposait pas encore d’un espace digital capable de transmettre efficacement son histoire, ses valeurs et son identité visuelle.",
+            "solutions": "Nous avons créé une page À propos percutante et intégré des éléments de storytelling sur la page d’accueil. L’utilisation d’images de haute qualité, d’une typographie affirmée et d’une identité graphique cohérente a renforcé l’univers de marque.",
+            "results": "Le site reflète désormais l’essence de la marque, créant un lien émotionnel plus fort avec les visiteurs et soulignant son positionnement distinctif."
           }
         ]
       },
@@ -314,7 +316,510 @@
       "question": "Pouvez-vous nous aider à repenser ou à redéfinir notre image de marque ?",
       "answer": "Oui. Que vous lanciez une nouvelle marque ou modernisiez votre site actuel, nous créons des designs qui reflètent votre image de marque et séduisent vos clients idéaux."
     }
+],
+"seo": {
+  "toronto": {
+    "title": "Conception Web à Toronto | Made With Lux",
+    "description": "Sites web sur mesure pour les entreprises à Toronto. Réservez une consultation gratuite."
+  },
+  "kitchener": {
+    "title": "Conception Web à Kitchener | Made With Lux",
+    "description": "Sites web sur mesure pour les entreprises à Kitchener. Réservez une consultation gratuite."
+  },
+  "vancouver": {
+    "title": "Conception Web à Vancouver | Made With Lux",
+    "description": "Sites web sur mesure pour les entreprises à Vancouver. Réservez une consultation gratuite."
+  },
+  "montreal": {
+    "title": "Conception Web à Montreal | Made With Lux",
+    "description": "Sites web sur mesure pour les entreprises à Montreal. Réservez une consultation gratuite."
+  },
+  "calgary": {
+    "title": "Conception Web à Calgary | Made With Lux",
+    "description": "Sites web sur mesure pour les entreprises à Calgary. Réservez une consultation gratuite."
+  },
+  "ottawa": {
+    "title": "Conception Web à Ottawa | Made With Lux",
+    "description": "Sites web sur mesure pour les entreprises à Ottawa. Réservez une consultation gratuite."
+  },
+  "edmonton": {
+    "title": "Conception Web à Edmonton | Made With Lux",
+    "description": "Sites web sur mesure pour les entreprises à Edmonton. Réservez une consultation gratuite."
+  },
+  "halifax": {
+    "title": "Conception Web à Halifax | Made With Lux",
+    "description": "Sites web sur mesure pour les entreprises à Halifax. Réservez une consultation gratuite."
+  }
+
+},
+"cityPage": {
+  "toronto": {
+    "heroTitle": "Conception de sites web sur mesure à Toronto",
+    "heroSubtitle": "Aider les entreprises de Toronto à se développer grâce à des sites web performants.",
+    "aboutHeading": "Ce que nous faisons pour les entreprises de Toronto",
+    "about": {
+      "heading": "Ce que nous faisons pour les entreprises de Toronto",
+      "para": "Nous offrons des solutions web adaptées au marché dynamique et diversifié de Toronto.",
+     "services": [
+  {
+    "title": "Conception de sites e-commerce à Toronto",
+    "description": "Nous créons des sites e-commerce axés sur la conversion pour les entreprises de Toronto — optimisés pour Shopify, WooCommerce et une expérience mobile fluide."
+  },
+  {
+    "title": "Développement web immobilier à Toronto",
+    "description": "Sites sur mesure pour les agents et agences immobilières de Toronto — avec intégration MLS, capture de leads et performances rapides."
+  },
+  {
+    "title": "Conception de sites bilingues et multilingues",
+    "description": "Touchez un public diversifié à Toronto grâce à des sites web professionnels en anglais, en français et plus — optimisés pour le SEO local et l’accessibilité."
+  },
+  {
+    "title": "Services de conception web SEO à Toronto",
+    "description": "Soyez visible sur Google grâce à un design web optimisé pour le référencement — nous ciblons les mots-clés compétitifs à Toronto pour générer plus de clients."
+  },
+  {
+    "title": "Maintenance de site web et support continu",
+    "description": "Nous offrons une maintenance fiable pour les entreprises de Toronto — mises à jour, sauvegardes, surveillance et sécurité incluses."
+  },
+  {
+    "title": "Fonctionnalités personnalisées pour votre site",
+    "description": "Vous avez besoin d’outils uniques ? Nous développons des fonctionnalités web sur mesure pour faire évoluer votre entreprise à Toronto."
+  }
+]
+
+    },
+    "faq": [
+  {
+    "question": "Combien coûte la création d’un site web pour mon entreprise à Toronto ?",
+    "answer": "Nos tarifs dépendent de la taille et des fonctionnalités de votre projet. Nous proposons des forfaits adaptés aux startups, petites entreprises et entreprises en croissance à Toronto — allant des sites vitrines aux boutiques e-commerce complètes. Contactez-nous pour un devis personnalisé."
+  },
+  {
+    "question": "Combien de temps faut-il pour créer mon site web ?",
+    "answer": "La plupart des sites sont conçus en 3 à 6 semaines, selon la complexité et les révisions nécessaires. Nous proposons également des délais accélérés pour les projets urgents, avec un planning clair dès le départ."
+  },
+  {
+    "question": "Pouvez-vous optimiser mon site pour le SEO local à Toronto ?",
+    "answer": "Oui, c’est notre spécialité. Nous optimisons votre site pour le référencement local à Toronto afin qu’il apparaisse dans les résultats de recherche Google locaux et sur Google Maps, avec des mots-clés pertinents pour votre secteur."
+  },
+  {
+    "question": "Quels sont les outils ou plateformes que vous utilisez pour créer les sites ?",
+    "answer": "Nous utilisons WordPress, Webflow, Shopify ou des solutions sur mesure selon vos besoins, votre budget et les objectifs de votre entreprise."
+  },
+  {
+    "question": "Proposez-vous un service de maintenance après la mise en ligne ?",
+    "answer": "Oui. Nous proposons des forfaits de maintenance pour les entreprises de Toronto, incluant les mises à jour, les sauvegardes, les contrôles de performance et la sécurité. Vous pouvez ainsi vous concentrer sur votre activité."
+  },
+  {
+    "question": "Pourrai-je modifier mon site moi-même après sa création ?",
+    "answer": "Oui, nos sites sont conçus pour être faciles à gérer. Nous vous fournissons une formation ou une documentation, et nous restons disponibles si vous préférez que nous gérions les mises à jour."
+  },
+  {
+    "question": "Travaillez-vous avec des startups et des petites entreprises ?",
+    "answer": "Oui, nous accompagnons avec plaisir les startups et petites entreprises basées à Toronto. Nos solutions sont flexibles et évolutives en fonction de vos objectifs."
+  },
+  {
+    "question": "Proposez-vous des sites bilingues ou multilingues pour le marché torontois ?",
+    "answer": "Oui, nous concevons des sites bilingues (anglais/français) ou multilingues pour vous aider à toucher un public plus large dans la diversité culturelle de Toronto."
+  }
+]
+
+}
+},
+  "kitchener": {
+    "heroTitle": "Conception de sites Web professionnels à Kitchener",
+    "heroSubtitle": "Aider les entreprises de Kitchener à se développer avec des sites Web modernes et performants.",
+    "about": {
+      "heading": "Sites Web personnalisés pour les petites entreprises de Kitchener",
+      "para": "Nous concevons des sites Web stratégiques qui aident les entreprises de Kitchener à atteindre leur public local, à se classer sur Google et à convertir les visiteurs en clients.",
+      "services": [
+        {
+          "title": "Conception de sites Web pour petites entreprises à Kitchener",
+          "description": "Nous créons des sites Web qui inspirent confiance et génèrent des prospects pour les prestataires de services, commerçants et consultants basés à Kitchener."
+        },
+        {
+          "title": "Développement de sites e-commerce",
+          "description": "Lancez ou développez votre boutique en ligne avec nos solutions de conception Shopify et WooCommerce adaptées au marché de Kitchener."
+        },
+        {
+          "title": "Optimisation SEO locale pour Kitchener",
+          "description": "Nous optimisons votre site pour les mots-clés locaux de Kitchener afin que votre entreprise apparaisse dans les recherches et sur Google Maps."
+        },
+        {
+          "title": "Sites mobiles et à chargement rapide",
+          "description": "Vos clients sont en déplacement — nous créons des sites rapides et réactifs qui fonctionnent parfaitement sur tous les appareils."
+        },
+        {
+          "title": "Refonte et modernisation de sites Web",
+          "description": "Donnez un coup de neuf à votre site avec un design moderne qui reflète votre professionnalisme et soutient votre croissance."
+        },
+        {
+          "title": "Conception de sites bilingues et accessibles",
+          "description": "Nous créons des sites en anglais et en français, inclusifs, accessibles et optimisés pour le SEO à Kitchener."
+        }
+      ]
+    },
+      "faq": [
+        {
+          "question": "Proposez-vous des sites Web adaptés aux entreprises de Kitchener ?",
+          "answer": "Oui — nous créons des sites Web personnalisés selon les besoins des entreprises locales de Kitchener."
+        },
+        {
+          "question": "Pouvez-vous améliorer mon classement Google à Kitchener ?",
+          "answer": "Bien sûr. Nos sites sont conçus pour le SEO local afin de vous aider à apparaître dans les résultats de recherche et sur Google Maps."
+        },
+        {
+          "question": "Avec quels types d'entreprises de Kitchener travaillez-vous ?",
+          "answer": "Nous collaborons avec des artisans, prestataires de services, consultants, commerces de détail et autres entreprises locales."
+        },
+        {
+          "question": "Combien de temps faut-il pour créer un site Web personnalisé ?",
+          "answer": "La plupart des projets prennent entre 2 et 4 semaines selon la complexité. Nous travaillons étroitement avec vous pour respecter le budget et les délais."
+        }
+      ]
+    },
+"vancouver": {
+  "heroTitle": "Conception de sites web sur mesure à Vancouver",
+  "heroSubtitle": "Aider les entreprises de Vancouver à se développer grâce à des sites web axés sur la conversion.",
+  "about": {
+    "heading": "Ce que nous faisons pour les entreprises de Vancouver",
+    "para": "Nous créons des sites web adaptés à l'esprit innovant et unique des entreprises de Vancouver.",
+    "services": [
+      {
+        "title": "Conception de sites e-commerce à Vancouver",
+        "description": "Nous concevons des sites e-commerce à fort taux de conversion pour les entreprises de Vancouver — optimisés pour Shopify, WooCommerce et le mobile."
+      },
+      {
+        "title": "Développement web immobilier à Vancouver",
+        "description": "Sites sur mesure pour les professionnels de l'immobilier à Vancouver — intégration MLS, rapidité de chargement et capture de leads."
+      },
+      {
+        "title": "Conception de sites multilingues à Vancouver",
+        "description": "Touchez la population diversifiée de Vancouver avec des sites multilingues — optimisés pour le SEO et l'accessibilité."
+      },
+      {
+        "title": "Services de conception SEO à Vancouver",
+        "description": "Améliorez votre classement local à Vancouver grâce à une conception web optimisée pour le SEO."
+      },
+      {
+        "title": "Maintenance et support de site web à Vancouver",
+        "description": "Maintenance continue, sauvegardes et mises à jour fiables pour les entreprises basées à Vancouver."
+      },
+      {
+        "title": "Fonctionnalités web personnalisées pour Vancouver",
+        "description": "Besoin de systèmes de réservation, tableaux de bord ou intégrations ? Nous développons des solutions sur mesure pour faire évoluer votre entreprise."
+      }
+    ]
+  },
+    "faq": [
+      {
+        "question": "Proposez-vous des services SEO pour les entreprises de Vancouver ?",
+        "answer": "Oui, nous sommes spécialisés dans le SEO local pour aider les entreprises de Vancouver à mieux se classer et attirer des clients."
+      },
+      {
+        "question": "Créez-vous des sites bilingues pour la population diversifiée de Vancouver ?",
+        "answer": "Absolument. Nous concevons des sites bilingues ou multilingues adaptés à la diversité culturelle de Vancouver."
+      },
+      {
+        "question": "Sur quelles plateformes développez-vous les sites web ?",
+        "answer": "Nous utilisons WordPress, Shopify, Webflow et d'autres plateformes en fonction de vos objectifs."
+      },
+      {
+        "question": "Offrez-vous un support après le lancement du site ?",
+        "answer": "Oui, nous assurons une maintenance continue pour que votre site à Vancouver reste sécurisé et à jour."
+      },
+      {
+        "question": "Combien coûte la création d’un site web pour une entreprise à Vancouver ?",
+        "answer": "Chaque entreprise est unique. Nos tarifs sont donc adaptés à vos objectifs, fonctionnalités et délais. Lors de votre consultation gratuite, nous vous fournirons un devis personnalisé et clair, en accord avec votre budget."
+      },
+      {
+        "question": "Combien de temps faut-il pour concevoir et lancer un site web ?",
+        "answer": "La plupart des projets de site web sont réalisés en 4 à 6 semaines, selon la complexité, le contenu et les retours pendant le processus."
+      }
+
+    ]
+  },
+  "montreal": {
+  "heroTitle": "Conception de sites Web sur mesure à Montréal",
+  "heroSubtitle": "Aider les entreprises de Montréal à se développer avec des sites web bilingues à forte conversion.",
+  "about": {
+    "heading": "Pourquoi les entreprises de Montréal nous choisissent",
+    "para": "Nous créons des sites web personnalisés et bilingues conçus pour engager le marché diversifié de Montréal et renforcer votre présence en ligne.",
+  "services": [
+    {
+      "title": "Conception de sites web bilingues à Montréal",
+      "description": "Des sites web professionnels en anglais et en français pour atteindre le public multiculturel de Montréal."
+    },
+    {
+      "title": "Conception de sites e-commerce pour les entreprises de Montréal",
+      "description": "Des plateformes e-commerce optimisées adaptées au marché dynamique de la vente au détail à Montréal."
+    },
+    {
+      "title": "Services SEO pour Montréal",
+      "description": "Des stratégies SEO locales ciblant les mots-clés spécifiques à Montréal pour augmenter votre visibilité et vos prospects."
+    },
+    {
+      "title": "Développement web personnalisé",
+      "description": "Des solutions personnalisées incluant des systèmes de réservation, des tableaux de bord et des fonctionnalités multilingues."
+    },
+    {
+      "title": "Maintenance et support de sites web",
+      "description": "Un support continu fiable et une maintenance adaptée aux entreprises de Montréal."
+    },
+    {
+      "title": "Conception de sites web immobiliers à Montréal",
+      "description": "Nous créons des sites web rapides et modernes pour les agents et agences immobiliers de Montréal — avec intégration MLS et outils de génération de prospects."
+    }
   ]
+},
+  "faq": [
+    {
+      "question": "Créez-vous des sites web bilingues pour les entreprises de Montréal ?",
+      "answer": "Oui, nous sommes spécialisés dans la création de sites web bilingues (anglais et français) pour vous aider à toucher le public diversifié de Montréal."
+    },
+    {
+      "question": "Comment pouvez-vous aider mon entreprise montréalaise à mieux se classer sur Google ?",
+      "answer": "Nous nous concentrons sur le SEO local en ciblant des mots-clés spécifiques à Montréal pour augmenter la visibilité de votre site et attirer plus de clients."
+    },
+    {
+      "question": "Quels sont les plateformes e-commerce que vous recommandez pour les détaillants de Montréal ?",
+      "answer": "Nous travaillons avec Shopify, WooCommerce et d'autres plateformes, en les personnalisant pour répondre aux besoins du marché de Montréal."
+    },
+    {
+      "question": "Pouvez-vous maintenir et mettre à jour régulièrement mon site web ?",
+      "answer": "Absolument. Nous offrons une maintenance et un support continus pour que votre site web d'entreprise montréalaise fonctionne sans problème."
+    }
+  ]
+},
+  "calgary": {
+    "heroTitle": "Services de conception web à Calgary",
+    "heroSubtitle": "Nous aidons les entreprises de Calgary à prospérer avec des sites modernes et performants.",
+    "aboutHeading": "Pourquoi les entreprises de Calgary nous choisissent",
+    "about": {
+      "heading": "Solutions web sur mesure pour les entreprises de Calgary",
+      "para": "Nous créons des sites rapides, adaptés au SEO et pensés pour le marché concurrentiel de Calgary.",
+      "services": [
+        {
+          "title": "Conception web SEO local à Calgary",
+          "description": "Nous optimisons votre site pour les recherches locales à Calgary afin d’attirer des clients dans votre région."
+        },
+        {
+          "title": "Création de sites e-commerce à Calgary",
+          "description": "Des boutiques en ligne rapides et adaptées au mobile pour le marché e-commerce croissant de Calgary."
+        },
+        {
+          "title": "Solutions personnalisées de développement web",
+          "description": "Systèmes de réservation, tableaux de bord, fonctionnalités personnalisées — nous créons ce dont votre entreprise a besoin."
+        },
+        {
+          "title": "Conception de sites immobiliers à Calgary",
+          "description": "Sites web performants pour les agents immobiliers de Calgary avec intégration MLS et outils de génération de prospects."
+        },
+        {
+          "title": "Conception de sites bilingues (anglais/français)",
+          "description": "Atteignez une audience bilingue à Calgary avec des sites optimisés pour l’accessibilité et le référencement."
+        },
+        {
+          "title": "Maintenance et support de sites web à Calgary",
+          "description": "Support technique fiable, mises à jour de sécurité, surveillance des performances pour les entreprises locales."
+        }
+      ]
+    },
+      "faq": [
+        {
+          "question": "Proposez-vous des services pour les petites entreprises de Calgary ?",
+          "answer": "Oui, nous concevons des sites abordables et efficaces pour les startups et PME basées à Calgary."
+        },
+        {
+          "question": "Pouvez-vous améliorer le SEO local de mon site à Calgary ?",
+          "answer": "Bien sûr. Nous utilisons des mots-clés spécifiques à Calgary et les bonnes pratiques Google pour améliorer votre visibilité locale."
+        },
+        {
+          "question": "Quelles plateformes utilisez-vous pour la création de sites web ?",
+          "answer": "Nous utilisons WordPress, Shopify et Webflow selon vos besoins et votre budget."
+        },
+        {
+          "question": "Offrez-vous des sites bilingues pour Calgary ?",
+          "answer": "Oui. Nous créons des sites en anglais et en français pour mieux atteindre votre clientèle bilingue."
+        }
+      ]
+    },
+  "ottawa": {
+    "title": "Conception de sites web à Ottawa | Made With Lux",
+    "description": "Sites web personnalisés pour les entreprises d'Ottawa. Réservez une consultation gratuite.",
+    "heroTitle": "Conception de sites web professionnels à Ottawa",
+    "heroSubtitle": "Nous aidons les entreprises d'Ottawa à se développer grâce à des sites performants et axés sur la conversion.",
+    "aboutHeading": "Pourquoi les entreprises d'Ottawa travaillent avec nous",
+    "about": {
+      "heading": "Solutions web sur mesure pour le marché d'Ottawa",
+      "para": "Nous créons des sites adaptatifs, optimisés pour le SEO et conçus pour l’économie diversifiée d’Ottawa.",
+      "services": [
+        {
+          "title": "Conception web SEO local pour Ottawa",
+          "description": "Nous aidons les entreprises d'Ottawa à mieux se positionner grâce à un référencement local efficace."
+        },
+        {
+          "title": "Conception de sites e-commerce à Ottawa",
+          "description": "Des boutiques en ligne performantes et adaptées aux besoins croissants du commerce numérique à Ottawa."
+        },
+        {
+          "title": "Applications web personnalisées pour les entreprises d’Ottawa",
+          "description": "Réservations, tableaux de bord et plus — nous créons des fonctionnalités sur mesure pour votre entreprise."
+        },
+        {
+          "title": "Conception de sites pour l’immobilier à Ottawa",
+          "description": "Sites modernes pour les agents immobiliers d’Ottawa, avec intégration MLS et capture de prospects."
+        },
+        {
+          "title": "Conception de sites bilingues (anglais/français)",
+          "description": "Nous concevons des sites bilingues pour répondre aux besoins linguistiques officiels d’Ottawa."
+        },
+        {
+          "title": "Maintenance et support de sites web à Ottawa",
+          "description": "Des services fiables de maintenance, sécurité et mises à jour pour les sites web d’Ottawa."
+        }
+      ]
+    },
+      "faq": [
+        {
+          "question": "Créez-vous des sites pour les petites entreprises à Ottawa ?",
+          "answer": "Oui, nous créons des sites professionnels et abordables pour les petites entreprises et startups d’Ottawa."
+        },
+        {
+          "question": "Pouvez-vous améliorer le SEO local de mon site à Ottawa ?",
+          "answer": "Bien sûr. Nous utilisons des mots-clés spécifiques à Ottawa pour améliorer votre classement local."
+        },
+        {
+          "question": "Proposez-vous des sites bilingues pour Ottawa ?",
+          "answer": "Absolument. Nous construisons des sites en anglais et en français pour répondre aux exigences linguistiques locales."
+        },
+        {
+          "question": "Quelles plateformes utilisez-vous pour créer les sites web ?",
+          "answer": "Nous travaillons avec WordPress, Shopify et Webflow, selon les besoins de votre entreprise."
+        }
+      ]
+    },
+  "edmonton": {
+    "title": "Conception de sites web à Edmonton | Made With Lux",
+    "description": "Sites web personnalisés pour les entreprises d'Edmonton. Réservez une consultation gratuite.",
+    "heroTitle": "Conception de sites web sur mesure à Edmonton",
+    "heroSubtitle": "Nous aidons les entreprises d’Edmonton à se développer grâce à des sites performants et axés sur le SEO.",
+    "aboutHeading": "Pourquoi les entreprises d’Edmonton nous choisissent",
+    "about": {
+      "heading": "Des solutions web adaptées au marché d’Edmonton",
+      "para": "Nous créons des sites responsives et optimisés pour le SEO, conçus pour l’économie dynamique d’Edmonton.",
+      "services": [
+        {
+          "title": "Conception web axée sur le SEO à Edmonton",
+          "description": "Nous améliorons votre visibilité locale à Edmonton grâce à des sites rapides et bien référencés."
+        },
+        {
+          "title": "Sites e-commerce à Edmonton",
+          "description": "Nous concevons des sites e-commerce sur Shopify, WooCommerce ou Webflow pour aider les commerçants d’Edmonton à vendre plus."
+        },
+        {
+          "title": "Développement de sites immobiliers à Edmonton",
+          "description": "Sites immobiliers modernes avec intégration MLS/IDX, conçus pour la génération de prospects."
+        },
+        {
+          "title": "Fonctionnalités et applications web sur mesure",
+          "description": "Réservations, dashboards, et plus — nous créons des outils personnalisés pour soutenir votre croissance."
+        },
+        {
+          "title": "Conception de sites multilingues à Edmonton",
+          "description": "Nous créons des sites en anglais, français, et autres langues pour répondre aux besoins multiculturels d’Edmonton."
+        },
+        {
+          "title": "Maintenance et support continu",
+          "description": "Nous assurons la sécurité, la mise à jour et le bon fonctionnement de votre site à Edmonton avec un support dédié."
+        }
+      ]
+    },
+      "faq": [
+        {
+          "question": "Travaillez-vous avec les startups d’Edmonton ?",
+          "answer": "Oui, nous aidons les startups et petites entreprises à créer des sites web abordables et performants."
+        },
+        {
+          "question": "Améliorez-vous le SEO local à Edmonton ?",
+          "answer": "Absolument. Nous optimisons votre site pour apparaître sur Google dans les recherches locales à Edmonton."
+        },
+        {
+          "question": "Proposez-vous des sites multilingues ?",
+          "answer": "Oui. Nous créons des sites bilingues et multilingues (anglais, français, etc.) adaptés aux communautés locales."
+        },
+        {
+          "question": "Quelles plateformes utilisez-vous ?",
+          "answer": "Nous utilisons WordPress, Shopify, Webflow ou des solutions personnalisées selon vos besoins."
+        }
+      ]
+    },
+  "halifax": {
+    "title": "Conception de sites web à Halifax | Made With Lux",
+    "description": "Sites web personnalisés pour les entreprises d'Halifax. Réservez une consultation gratuite.",
+    "heroTitle": "Conception de sites web sur mesure à Halifax",
+    "heroSubtitle": "Aider les entreprises d'Halifax à se développer grâce à des sites performants et optimisés pour le SEO.",
+    "aboutHeading": "Pourquoi les entreprises d'Halifax nous choisissent",
+    "about": {
+      "heading": "Des solutions digitales adaptées au marché local d'Halifax",
+      "para": "Nous créons des sites rapides, mobiles et bien référencés qui soutiennent la croissance des entreprises d'Halifax.",
+      "services": [
+        {
+          "title": "Conception web SEO à Halifax",
+          "description": "Nous optimisons votre site pour les recherches locales afin d’attirer plus de clients à Halifax via Google."
+        },
+        {
+          "title": "Sites e-commerce à Halifax",
+          "description": "Nous construisons des boutiques en ligne puissantes pour les entreprises de Halifax — sur Shopify, WooCommerce ou Webflow."
+        },
+        {
+          "title": "Développement de sites immobiliers à Halifax",
+          "description": "Sites professionnels avec intégration MLS, génération de prospects et branding pour les agents immobiliers d’Halifax."
+        },
+        {
+          "title": "Conception de sites multilingues à Halifax",
+          "description": "Nous construisons des sites en anglais et en français pour toucher une audience plus large à Halifax."
+        },
+        {
+          "title": "Maintenance et support à Halifax",
+          "description": "Nous assurons les mises à jour, sauvegardes et le bon fonctionnement de votre site avec un support local dédié."
+        },
+        {
+          "title": "Fonctionnalités web personnalisées pour Halifax",
+          "description": "Systèmes de réservation, tableaux de bord clients, et plus — adaptés aux besoins spécifiques de votre entreprise."
+        }
+      ]
+    },
+      "faq": [
+        {
+          "question": "Pouvez-vous améliorer mon référencement local à Halifax ?",
+          "answer": "Oui. Nous optimisons votre site pour qu’il soit mieux classé sur Google et génère plus de prospects à Halifax."
+        },
+        {
+          "question": "Travaillez-vous avec les petites entreprises à Halifax ?",
+          "answer": "Absolument. Nous aidons les PME à Halifax à obtenir un site professionnel et abordable."
+        },
+        {
+          "question": "Proposez-vous des sites bilingues (anglais/français) ?",
+          "answer": "Oui. Nous construisons des sites multilingues pour mieux desservir la population diversifiée d’Halifax."
+        },
+        {
+          "question": "Offrez-vous un support après le lancement ?",
+          "answer": "Oui. Nous offrons un service de maintenance continue, de surveillance de performance et un support technique fiable."
+        }
+      ]
+    }
+  
+  
+
+  
+
+
+  
+
+
+}
+
+
 
 
 
@@ -322,4 +827,4 @@
     
       
       
-  }
+  

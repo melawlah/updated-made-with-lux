@@ -7,6 +7,7 @@ import {
   } from "react-icons/fa";
 import { SiTiktok } from "react-icons/si";
 import { useTranslation } from "react-i18next";
+import LocationLinks from "./LocationLinks";
   
   const Footer = () => {
     const { t } = useTranslation();
@@ -83,8 +84,12 @@ import { useTranslation } from "react-i18next";
           </div>
         </div>
   
-        {/* Divider */}
+        
+        {/* Locations Section */}
+<LocationLinks />
+{/* Divider */}
         <div className="w-full h-px bg-white/10 my-16"></div>
+
   
         {/* Bottom Footer */}
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
