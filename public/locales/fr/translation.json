@@ -807,7 +807,39 @@
           "answer": "Oui. Nous offrons un service de maintenance continue, de surveillance de performance et un support technique fiable."
         }
       ]
-    }
+    },
+    
+  "blog": {
+    "back": "Retour au blog",
+    "notFound": "Article introuvable.",
+    "pageTitle": "Notre Blogue | Conseils en conception Web et SEO | Made With Lux",
+    "pageDescription": "Aperçus sur la conception de sites Web, le SEO, l’expérience utilisateur et la croissance numérique — directement de l’équipe Made With Lux.",
+    "heading": "Perspectives et stratégie",
+    "subheading": "Restez informé des dernières tendances en SEO, conception web et stratégie numérique pour développer votre présence en ligne.",
+    "posts": [
+      {
+        "slug": "how-to-boost-your-local-seo",
+        "title": "Comment améliorer votre SEO local en 2025",
+        "excerpt": "Découvrez des stratégies concrètes pour accroître la visibilité de votre entreprise dans votre ville grâce au SEO local.",
+        "content": "<p>Le SEO local est essentiel pour les entreprises ciblant des clients dans une région précise...</p><p>Voici comment l’améliorer en 2025 : recherche de mots-clés, optimisation Google Business, avis clients et citations locales.</p>",
+        "image": "/blog/local-seo-2025.jpg"
+      },
+      {
+        "slug": "modern-web-design-principles",
+        "title": "Principes de conception web modernes qui convertissent",
+        "excerpt": "Explorez les principes de la conception web moderne pour créer un site centré sur l'utilisateur et orienté vers la conversion.",
+        "image": "/blog/modern-design.jpg"
+      },
+      {
+        "slug": "importance-of-site-speed",
+        "title": "L’impact réel de la vitesse du site sur le SEO",
+        "excerpt": "Découvrez pourquoi la vitesse est essentielle, non seulement pour la performance, mais aussi pour votre classement SEO en 2025.",
+        "image": "/blog/speed-impact.jpg"
+      }
+    ]
+  }
+
+
   
   
 

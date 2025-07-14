@@ -810,6 +810,43 @@
           "answer": "We do. We provide ongoing maintenance, performance monitoring, and technical support for Halifax clients."
         }
       ]
-    }
+    },
+    
+  "blog": {
+    "back": "Back to Blog",
+    "notFound": "Post not found.",
+    "description": "lorem ipsum",
+    "title": "Insights from our Agency",
+    "metaTitle": "Our Blog – Web Design Insights, Tips & Trends",
+    "metaDescription": "Discover web design trends, SEO tips, and strategies to grow your digital presence.",
+    "readMore": "Read More",
+    "pageTitle": "Our Blog | Web Design & SEO Tips | Made With Lux",
+    "pageDescription": "Insights on web design, SEO, user experience, and digital growth — straight from the team at Made With Lux.",
+    "heading": "Insights & Strategy",
+    "subheading": "Stay updated with the latest in SEO, web design, and digital strategy to grow your business online.",
+    "posts": [
+      {
+        "slug": "how-to-boost-your-local-seo",
+        "title": "How to Boost Your Local SEO in 2025",
+        "content": "<p>Local SEO is critical for businesses targeting customers in specific areas...</p><p>Here’s how to improve it in 2025: keyword research, Google Business optimization, reviews, and citations.</p>",
+        "excerpt": "Discover actionable strategies to improve your business visibility in your city using local SEO tactics.",
+        "image": "/assets/web-design-trend.jpg"
+      },
+      {
+        "slug": "modern-web-design-principles",
+        "title": "Modern Web Design Principles That Convert",
+        "excerpt": "Explore the principles of modern web design and how to make your site user-focused and conversion-friendly.",
+        "image": "/blog/modern-design.jpg"
+      },
+      {
+        "slug": "importance-of-site-speed",
+        "title": "The Real Impact of Website Speed on SEO",
+        "excerpt": "Learn why speed isn’t just about performance — it’s a huge ranking factor in 2025.",
+        "image": "/blog/speed-impact.jpg"
+      }
+    ]
+  }
+
+
 
 }

@@ -1,11 +1,4 @@
 import Nav from "./components/Nav"
-import Hero from "./components/Hero"
-import AboutUs from "./components/AboutUs"
-import Projects from "./components/Projects"
-import Testimonials from "./components/Testimonials"
-import HowItWorks from "./components/HowItWorks"
-import FaqSection from "./components/Faq"
-import Footer from "./components/Footer"
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import HomeLayout from "./components/HomeLayout";
 import TorontoPage from "./pages/locations/TorontoPage";
@@ -15,16 +8,21 @@ import MontrealPage from "./pages/locations/MontrealPage";
 import CalgaryPage from "./pages/locations/CalgaryPage";
 import OttawaPage from "./pages/locations/OttawaPage";
 import EdmontonPage from "./pages/locations/EdmontonPage";
-import HalifaxPage from "./pages/locations/HalifaxPage"
+import HalifaxPage from "./pages/locations/HalifaxPage";
+import Blog from "./pages/Blog";
+import BlogPostDetail from "./pages/BlogPostDetail";
 
 
 function App() {
   return (
     <>
-      <div className="min-h-screen">
-        <Router>
+      <Router>
+        <div className="min-h-screen">
+          <Nav />
           <Routes>
             <Route path="/" element={<HomeLayout />} />
+            <Route path="/blog" element={<Blog />} />
+            <Route path="/blog/:slug" element={<BlogPostDetail />} />
             <Route path="/web-design-toronto" element={<TorontoPage />} />
             <Route path="/web-design-kitchener" element={<KitchenerPage />} />
             <Route path="/web-design-vancouver" element={<VancouverPage />} />
@@ -33,10 +31,11 @@ function App() {
             <Route path="/web-design-ottawa" element={<OttawaPage />} />
             <Route path="/web-design-edmonton" element={<EdmontonPage />} />
             <Route path="/web-design-halifax" element={<HalifaxPage />} />
-            {/* Add more cities as needed */}
           </Routes>
-        </Router>
-      </div>
+         
+        </div>
+      </Router>
+    
       {/* <div className="min-h-screen">
         <Nav />
         <main>

@@ -6,13 +6,19 @@ import clsx from 'clsx';
 import {
     FaLocationArrow
   } from "react-icons/fa";
+import { useNavigate } from 'react-router-dom';
+
 
 function Nav() {
   const [isOpen, setIsOpen] = useState(false);
   const { t, i18n } = useTranslation();
   const [activeSection, setActiveSection] = useState('');
-
   const location = useLocation();
+  const basePath = location.pathname.startsWith('/web-design-') 
+  ? location.pathname.split('#')[0] 
+  : '/';
+  const navigate = useNavigate();
+  const isHome = location.pathname === '/' || location.pathname.startsWith('/web-design-');
 
   const cityMatch = location.pathname.match(/web-design-([a-zA-Z-]+)/);
   const citySlug = cityMatch ? cityMatch[1] : null;
@@ -44,14 +50,30 @@ function Nav() {
     return () => sections.forEach((section) => observer.unobserve(section));
   }, []);
 
+const handleNavClick = (id) => {
+  if (!isHome) {
+    navigate('/');
+    // Delay scrolling to allow page transition
+    setTimeout(() => {
+      const section = document.getElementById(id);
+      section?.scrollIntoView({ behavior: 'smooth' });
+    }, 300);
+  } else {
+    const section = document.getElementById(id);
+    section?.scrollIntoView({ behavior: 'smooth' });
+  }
+
+  setIsOpen(false);
+};
+
 const navLinks = [
-  { id: 'about', label: t('aboutUs') },
-  { id: 'work', label: t('ourWorks') },
-  { id: 'contactUs', label: t('contactUs') },
-  // { id: 'blog', label: 'Blog', external: true, href: '/blog' }, // External route
+  { id: 'about', label: t('aboutUs'), internal: true, href: '#about' },
+  { id: 'work', label: t('ourWorks'), internal: true, href: '#work' },
+  { id: 'contactUs', label: t('contactUs'), internal: true, href: '#contactUs' },
+  { id: 'blog', label: 'Blog', external: true, href: '/blog' },
 ];
 
-  
+
 
   return (
     <nav className="fixed top-0 left-0 w-full z-50 backdrop-blur-md bg-black border-b border-gray-200 shadow-xs transition-all duration-300">
@@ -89,25 +111,102 @@ const navLinks = [
 
         {/* Desktop nav links */}
         <ul className="hidden lg:flex space-x-6 text-sm font-medium text-white items-center">
-          {navLinks.map(({ id, label }) => (
-            <li key={id}>
-              <a
-                href={`#${id}`}
-                className={clsx(
-                  'relative px-1 transition-colors hover:text-white',
-                  activeSection === id && 'text-white font-semibold'
-                )}
-              >
-                <span
-                  className={clsx(
-                    'absolute left-0 -bottom-1 w-full h-[2px] bg-white scale-x-0 origin-left transition-transform duration-300',
-                    activeSection === id && 'scale-x-100'
-                  )}
-                ></span>
-                {label}
-              </a>
-            </li>
-          ))}
+         {/* {navLinks.map(({ id, label, internal, href }) => (
+  <li key={id}>
+    {internal ? (
+      <a
+        href={href}
+        className={clsx(
+          'relative px-1 transition-colors hover:text-white',
+          activeSection === id && 'text-white font-semibold'
+        )}
+      >
+        <span
+          className={clsx(
+            'absolute left-0 -bottom-1 w-full h-[2px] bg-white scale-x-0 origin-left transition-transform duration-300',
+            activeSection === id && 'scale-x-100'
+          )}
+        ></span>
+        {label}
+      </a>
+    ) : (
+      <Link
+        to={href}
+        className="relative px-1 transition-colors hover:text-white"
+      >
+        {label}
+      </Link>
+    )}
+  </li>
+))} */}
+{/* {navLinks.map(({ id, label, external, href }) => (
+  <li key={id}>
+    {external ? (
+      <Link
+        to={href}
+        onClick={() => setIsOpen(false)}
+        className={clsx(
+          'relative px-1 transition-colors hover:text-white',
+          location.pathname === href && 'font-semibold underline underline-offset-4'
+        )}
+      >
+        {label}
+      </Link>
+    ) : (
+      // <button
+      //   onClick={() => handleNavClick(id)}
+      //   className={clsx(
+      //     'relative px-1 transition-colors hover:text-white',
+      //     activeSection === id && isHome && 'font-semibold underline underline-offset-4'
+      //   )}
+        
+      // >
+      //   {label}
+      // </button>
+      <button
+        onClick={() => handleNavClick(id)}
+        className={clsx(
+          'relative px-1 transition-colors hover:text-white cursor-pointer',
+          activeSection === id && isHome && 'font-semibold underline underline-offset-4'
+        )}
+      >
+        {label}
+      </button>
+
+    )}
+  </li>
+))} */}
+{navLinks.map(({ id, label, external, href }) => (
+  <li key={id}>
+    {external ? (
+      <Link
+        to={href}
+        className={clsx(
+          'relative px-1 transition-colors hover:text-white',
+          location.pathname === href && 'font-semibold underline underline-offset-4'
+        )}
+      >
+        {label}
+      </Link>
+    ) : (
+     <button
+        onClick={() => {
+          window.location.href = `${basePath}#${id}`;
+          setIsOpen(false);
+        }}
+        className={clsx(
+          'relative px-1 transition-colors hover:text-white cursor-pointer',
+          activeSection === id && 'font-semibold underline underline-offset-4'
+        )}
+      >
+        {label}
+      </button>
+    )}
+  </li>
+))}
+
+
+
           {/* <div className="flex justify-center"> */}
           <li> 
             <a href="https://calendly.com/lawlahruth/strategy-session" target="_blank" rel="noopener noreferrer">
@@ -131,22 +230,14 @@ const navLinks = [
         </ul>
       </div>
 
-      {isOpen && (
+    {isOpen && (
   <div className="lg:hidden px-4 pt-2 pb-6 bg-black shadow-lg border-t border-gray-200">
     <ul className="flex flex-col space-y-4 text-sm font-medium text-white">
-      {navLinks.map(({ id, label, external, href }) => (
+      {/* {navLinks.map(({ id, label, internal, href }) => (
         <li key={id}>
-          {external ? (
+          {internal ? (
             <a
               href={href}
-              onClick={() => setIsOpen(false)}
-              className="block py-1 hover:text-white"
-            >
-              {label}
-            </a>
-          ) : (
-            <a
-              href={`#${id}`}
               onClick={() => setIsOpen(false)}
               className={clsx(
                 'block py-1 transition-colors hover:text-white',
@@ -155,9 +246,80 @@ const navLinks = [
             >
               {label}
             </a>
+          ) : (
+            <Link
+              to={href}
+              onClick={() => setIsOpen(false)}
+              className="block py-1 hover:text-white"
+            >
+              {label}
+            </Link>
           )}
         </li>
-      ))}
+      ))} */}
+      {/* {navLinks.map(({ id, label, external, href }) => (
+  <li key={id}>
+    {external ? (
+      <Link
+        to={href}
+        onClick={() => setIsOpen(false)}
+        className="block py-1 hover:text-white"
+      >
+        {label}
+      </Link>
+    ) : (
+      // <button
+      //   onClick={() => handleNavClick(id)}
+      //   className={clsx(
+      //     'block py-1 transition-colors hover:text-white',
+      //     activeSection === id && isHome && 'font-semibold underline underline-offset-4'
+      //   )}
+      // >
+      //   {label}
+      // </button>
+      <button
+        onClick={() => handleNavClick(id)}
+        className={clsx(
+          'relative px-1 transition-colors hover:text-white cursor-pointer',
+          activeSection === id && isHome && 'font-semibold underline underline-offset-4'
+        )}
+      >
+        {label}
+      </button>
+
+    )}
+  </li>
+))} */}
+{navLinks.map(({ id, label, external, href }) => (
+  <li key={id}>
+    {external ? (
+      <Link
+        to={href}
+        onClick={() => setIsOpen(false)}
+        className={clsx(
+          'block py-1 transition-colors hover:text-white',
+          location.pathname === href && 'font-semibold underline underline-offset-4'
+        )}
+      >
+        {label}
+      </Link>
+    ) : (
+   <button
+      onClick={() => {
+        window.location.href = `${basePath}#${id}`;
+        setIsOpen(false);
+      }}
+      className={clsx(
+        'relative px-1 transition-colors hover:text-white cursor-pointer',
+        activeSection === id && 'font-semibold underline underline-offset-4'
+      )}
+    >
+      {label}
+    </button>
+    )}
+  </li>
+))}
+
 
       <li>
         <button
@@ -170,6 +332,7 @@ const navLinks = [
     </ul>
   </div>
 )}
+
 
     </nav>
   );
