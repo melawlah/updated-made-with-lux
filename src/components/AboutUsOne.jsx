@@ -42,16 +42,6 @@ function AboutUsOne() {
           {t('aboutUs')}
         </motion.h2>
 
-        {/* <motion.p
-          className="text-md sm:text-lg md:text-xl leading-relaxed text-gray-700 font-light max-w-3xl mb-20"
-          initial={{ opacity: 0, y: 30 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.8, delay: 0.2 }}
-        >
-          {t('aboutDescription')}
-        </motion.p> */}
-
         {/* Features Grid */}
         <div className="grid gap-10 md:grid-cols-3 max-w-5xl w-full">
           {features.map((feature, index) => (
